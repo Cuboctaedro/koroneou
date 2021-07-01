@@ -1,0 +1,160 @@
+Title: Christina Michalis
+
+----
+
+Type: represented
+
+----
+
+Coverimage: 
+
+----
+
+Biography:
+
+Born 1974, in Stuttgart
+Lives and works in Berlin
+
+### Education
+
+1995-1996 Universidad Complutense de Madrid, Facultad de Bellas Artes, Madrid, Spain
+2000-2003 Universität der Künste, Berlin, Germany
+
+### Exhibitions (selected)
+
+#### 2016
+"UN", Galerie Nicole Gnesa, München (solo show)
+#### 2015
+Othrys, Nicole Gnesa, München
+#### 2014  
+Eleni Koroneou Gallery, Athens (solo show)
+Galerie Nicole Gnesa, München (solo show)
+Christina Michalis – Arthur Ou – Alexandros Tzannis, Eleni Koroneou Gallery, Athens
+#### 2013 
+"Hypothese", Piper Collection, Berlin
+#### 2012 
+"Bring a Brick", Infernoesque Berlin (group show)
+"Wie es hätte sein sollen", Piper Collection, Berlin
+#### 2010 
+"Girl Overkill", Künstlerhaus Bethanien, Berlin (group show)
+Infernoesque Berlin (together with Sofie Arfwidson)
+"I wish myself an exhibition. 30 Artists, 30 Songs, 30 Jokes", West Germany, Berlin
+"Collage Accident", Forgotten Bar Project, Berlin
+"Fresco Mondo", Forgotten Bar Project, Berlin (group show)
+"Curriculum vitale", Piper Collection, Berlin
+#### 2009 
+"Wie es zu dämmern beginnt im/ Sommergarten und der Mond/ herauf kommt pflücke ich eine/ dunkle Traube/ sie erfrischt meine Finger "(Senancour), Künstlerhaus Bethanien, Berlin (together with Sofie Arfwidson)
+Forgotten Bar Project, Berlin
+"Malen und Sex", Piper Collection, Berlin
+
+----
+
+Works:
+
+- 
+  image:
+    - michalis_1.jpg
+  caption: >
+    "Untitled", 2011, Watercolour, pigment
+    on canvas, polycarbonate, 250 x 120 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - michalis_2.jpg
+  caption: >
+    Untitled, 2011, Pigment on canvas
+    polycarbonate, 250 x 210 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - michalis_3.jpg
+  caption: >
+    Untitled, 2011, Pigment, glue on canvas,
+    polycarbonate, coloured tape, 250 x 123
+    cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - michalis_4.jpg
+  caption: >
+    Untitled, 2011, Watercolour on cotton,
+    polycarbonate, screw clamps, 210 x 212
+    cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - michalis_5.jpg
+  caption: >
+    Untitled, 2011, Watercolour, glue on
+    canvas, polycarbonate, 210 x 230 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - michalis_6.jpg
+  caption: 'Untitled, 2012, Pigment on canvas, polycarbonate,  230 cm x 150 cm'
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - michalis_7.jpg
+  caption: >
+    Untitled, 2011, Pigment, glue on canvas,
+    polycarbonate, 200 x 115 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - michalis_8.jpg
+  caption: >
+    Untitled, 2011, Watercolour, pigment,
+    glue on canvas, polycarbonate,
+    spraypaint, 200 x 130 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - michalis_9.jpg
+  caption: >
+    Untitled, 2011, Watercolour, spraypaint
+    on canvas, polycarbonate,
+    colored/transparent tape, 200 x 98 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - michalis_91.jpg
+  caption: >
+    Untitled, 2010, Pigment on canvas,
+    polycarbonate, 210 x 150 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - michalis_92.jpg
+  caption: >
+    Untitled, 2010, Watercolour on canvas,
+    polycarbonate, 200 x 105 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - michalis_93.jpg
+  caption: >
+    Untitled, 2010, Watercolour, pigment on
+    canvas, polycarbonate, 210 x 150 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - michalis_94.jpg
+  caption: >
+    Untitled, 2011, Pigment, guache,
+    watercolour on canvas, polycarbonate,
+    200 x 120 cm
+  inquire: 'false'
+  worktitle: ""

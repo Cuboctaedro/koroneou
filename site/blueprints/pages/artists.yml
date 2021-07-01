@@ -1,0 +1,11 @@
+title: Artists
+
+sections:
+    list:
+        type: pages
+        layout: list
+        templates: artist
+        headline: Artists
+        status: all
+        info: "{{ page.type.upper() }}"
+        image: page.getCoverImage()

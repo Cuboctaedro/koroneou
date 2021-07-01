@@ -1,0 +1,54 @@
+Title: Building Living Leaving (Cranes)
+
+----
+
+Works:
+
+- 
+  image:
+    - cranes-01.jpg
+  caption: >
+    Building Living Leaving (Cranes),
+    1999-1996, Lambda print, 120 x 120 cm,
+    edition 3 + 1AP
+  inquire: 'false'
+- 
+  image:
+    - cranes-02.jpg
+  caption: >
+    Building Living Leaving (Cranes),
+    1999-1996, Lambda print, 120 x 120 cm,
+    edition 3 + 1AP
+  inquire: 'false'
+- 
+  image:
+    - cranes-03.jpg
+  caption: >
+    Building Living Leaving (Cranes),
+    1999-1996, Lambda print, 120 x 120 cm,
+    edition 3 + 1AP
+  inquire: 'false'
+- 
+  image:
+    - cranes-04.jpg
+  caption: >
+    Building Living Leaving (Cranes),
+    1999-1996, Lambda print, 120 x 120 cm,
+    edition 3 + 1AP
+  inquire: 'false'
+- 
+  image:
+    - cranes-05.jpg
+  caption: >
+    Building Living Leaving (Cranes),
+    1999-1996, Lambda print, 120 x 120 cm,
+    edition 3 + 1AP
+  inquire: 'false'
+- 
+  image:
+    - cranes-06.jpg
+  caption: >
+    Building Living Leaving (Cranes),
+    1999-1996, Lambda print, 120 x 120 cm,
+    edition 3 + 1AP
+  inquire: 'false'

@@ -1,0 +1,212 @@
+Title: Panos Papadopoulos
+
+----
+
+Type: represented
+
+----
+
+Coverimage: 
+
+----
+
+Biography:
+
+Born 1975 in Athens, Greece
+Lives and works in Athens
+
+
+### Education
+
+1995 - 1999 MA & BA in Painting, Academy of Fine Arts Vienna (Prof. Markus Prachensky)
+
+
+### Solo Exhibitions
+
+#### 2018
+“26:53 a.m.”, Eleni Koroneou Gallery, Athens
+“Drawing yourself into corners”, Martinetz Gallery, Cologne
+“Painting yourself into corners”, Irene Laub Gallery, Brussels
+#### 2017
+“Simulations”, Salon de Bricolage, Athens
+#### 2016
+“Almost Empty”, Dio Horia, Mykonos, Greece
+“Blank views”, Galerie MARTINEZ, Cologne
+“Narcissism-Masochism-Fetishism”, Eleni Koroneou Gallery, Athens
+#### 2015
+“Domestic Views II”, curated by Katharina Abpurg and Mia Laska, Vienna
+“Domestic Views”, Torri Gallery & Lucile Avenue space project, LA
+#### 2014
+Solo show, Gallery Ileana Tounta, Athens
+#### 2013
+“..painting..music&vodka”, Ommu Distribution, Athens
+Commission for a mural (7m x 8m) in Palais Weihburg, Vienna
+#### 2012
+“Headquarters”, curated by Marina Fokidis, Kunsthalle Athena, Athens
+#### 2010
+“Wasted Sperma”, Ve.Sch, Vienna
+
+
+### Selected Group Exhibitions
+#### 2020
+“5 Artsists”, Eleni Koroneou Gallery, Athens
+#### 2019
+“Landlord Colors: On Art, Economy, and Materiality”, Cranbrook Museum, Detroit, USA
+"Achrome", Irene Laub Gallery, Brussels
+ "WE NEVER THOUGHT ABOUT DOCUMENTATION", Martinetz Gallery, Cologne  
+#### 2018
+“Gold und Liebe”, Haus N, Athens
+#### 2017
+“Present”, DaDa Da Academy, IFAC, Athens
+“It Looks Like Up To Me”, Eleni Koroneou Gallery, Athens
+#### 2016
+"Self Hypnosis", Galerie Kunstbüro, Vienna
+Parallel Vienna IV, Vienna
+Vienna Contemporary Fair, Vienna
+#### 2015 
+“The Vacancy”, Galerie CRONE, Berlin
+Parallel Vienna III, Vienna
+“DIFFERENT THINGS HAPPEN/ PATHOLOGICAL HOARDING”, Gabrielle Senn Galerie, Vienna
+"Austere", curated by Cedric Aurelle and Shyan Rahimi, Los Angeles
+“Color Value Vienna #1”, Wiener Art Foundation, Vienna
+Hooper Projects residency, Los Angeles
+#### 2014
+Parallel Vienna II Fair, Vienna
+#### 2013
+4th Athens Biennale, “el Greco’s business lounge”, Athens
+Parallel Vienna Fair, Vienna
+Remap 4, “Nostalgia Nevrosa”, curated by Iliana Fokianaki, Athens
+“The Program”, UIC 400 Gallery, curated by Michael Hall - Chicago
+Art Athina, “DaDa Da Restaurant”
+“That’s not a image”, CAN Gallery, Athens
+“Lustlands”, curated by Nadja Argyropoulou & The Callas, Family Business Gallery, New York
+#### 2012
+Palais de Tokyo Museum, “The Garden of Eden”, group show, Paris
+“The Greek Pavillon”, Berlin Kreuzberg Biennale
+“Neue Tiere”, Kunstferein Koelnberg, group show, Cologne, Germany
+“Panos Papadopoulos, Tobi Binaer, Jannis Varelas”, Wiener Art Foundation
+(Kunstbuero), curated by Stefan Bidner, Vienna
+#### 2011
+Remap 3, “Grrr&Hmm”, curated by Stefan Bidner, Athens
+Artists Residency, Lenikus collection, Vienna
+“das Manihesto”, DaDa Da Academy, curated by Eirini Papakonstantinou, State
+Museum of Contemporary Art, Thessaloniki
+#### 2010
+“Psychonavigation”, EEG Gallery, Leipzig, Germany.
+“Archive on View”, DaDa Da Academy, Contemporary Art Center & Corridor Gallery,
+curated by Jakob Racek, Plovdiv, Bulgaria
+#### 2009
+“The Opening”, DaDa Da Academy, Kunstraum am Schauplatz, Vienna
+“Rythm&Painting”, Gallery Amer Abbas (Kunstbuero), Vienna
+2nd Athens Biennale, “Going blind to the AthensBiennale”, Athens
+
+
+### Honors
+
+1999 Awarded with the “Meisterschulpreis”, Academy of Fine Arts, Vienna
+1998 Granted the scholarship of the Academy of Fine Arts, Vienna
+1998 Awarded with the “Golden Fügerpreis” (for best drawing), Academy of Fine Arts, Vienna
+
+----
+
+Works:
+
+- 
+  image:
+    - 001.jpg
+  caption: >
+    Uncomfortable suit, 2018, Oil on canvas,
+    150 x 150 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - 01.jpg
+  caption: |
+    "all the world's a stage", 2015, Oil on canvas, 207 x 142 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - 002.jpg
+  caption: >
+    Insomnia II, 2018, Oil on canvas, 150 x
+    150 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - 02.jpg
+  caption: >
+    Collector’s interior, 2015m Oil on
+    canvas, 150 x 150 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - 003.jpg
+  caption: >
+    Monument Lacrimosa, 2018, Oil on canvas,
+    150 x 150 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - 03.jpg
+  caption: >
+    Smiley painting and sad chair, 2015, Oil
+    on canvas, 150 x 150 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - 04.jpg
+  caption: >
+    Design chair and expensive painting,
+    2015, Oil on canvas, 150 x 150 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - 004.jpg
+  caption: >
+    Insomnia I, 2018, Oil on canvas, 130 x
+    130 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - 005.jpg
+  caption: 'Mono, 2017 - 2018, Oil on canvas, 200 x 130 cm'
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - 05.jpg
+  caption: >
+    Toilet with a view, 2015, Oil on canvas,
+    130 x 130 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - 06.jpg
+  caption: >
+    Weisswurst selfie, 2015, Oil on canvas,
+    130 x 130 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - 07.jpg
+  caption: 'Intimacy fear, 2015,  Oil on canvas, 142 x 207 cm'
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - 08.jpg
+  caption: >
+    Philosopher, 2015, Oil on canvas, 207 x
+    142 cm
+  inquire: 'false'
+  worktitle: ""

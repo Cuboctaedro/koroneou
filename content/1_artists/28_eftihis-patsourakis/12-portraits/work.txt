@@ -1,0 +1,22 @@
+Title: Portraits
+
+----
+
+Works:
+
+- 
+  image:
+    - portraits-01.jpg
+  caption: >
+    Portraits, Used cigarettes collage, 40.5
+    x 33.5 cm each
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - portraits-02.jpg
+  caption: >
+    Portrait 01, 2004 Used cigarettes
+    collage, 40.5 x 33.5 cm
+  inquire: 'false'
+  worktitle: ""

@@ -1,0 +1,97 @@
+Title: Without my own Vehicle IV, Varanasi 2009
+
+----
+
+Works:
+
+- 
+  image:
+    - image-01.jpg
+  caption: 'The Eyes of the Gutter, The Eyes of Kedarnah,  2010, Mixed media processed photograph, 60 x 90 cm, edition of 5'
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - image-02.jpg
+  caption: >
+    Varanasi (Red Tears), 2010, Mixed media
+    processed photograph, 40 x 55 cm,
+    edition of 5
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - image-03.jpg
+  caption: >
+    Sunrise, 2010, Mixed media processed
+    photograph, 60 x 90 cm, edition of 5
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - image-04.jpg
+  caption: 'Pot of Flowers, 2010, Mixed media processed photograph,  55 x 75 cm, edition of 5'
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - image-05.jpg
+  caption: >
+    Shiva under Kali’s Foot, 2010, Mixed
+    media processed photograph, 60 x 90 cm,
+    edition of 5
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - image-06.jpg
+  caption: 'Everyday Islam, 2010, Mixed media processed photograph  40 x 55 cm, edition of 5'
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - image-07.jpg
+  caption: >
+    Submerged, 2010, Mixed media processed
+    photograph, 60 x 90 cm, edition of 5
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - image-08.jpg
+  caption: 'Red light District, 2010, Mixed media processed photograph,  40 x 55 cm, edition of 5'
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - image-09.jpg
+  caption: >
+    Varanasi (Skull), 2010, Mixed media
+    processed photograph, 60 x 90 cm,
+    edition of 5
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - image-10.jpg
+  caption: 'Self-portrait, 2010, Mixed media processed photograph,  55 x 75 cm, edition of 5'
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - image-11.jpg
+  caption: 'Golden Saliva Traces, 2010, Mixed media processed photograph,  55 x 75 cm, edition of 5'
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - image-12.jpg
+  caption: 'Broken Demon, 2010, Mixed media processed photograph,  55 x 75 cm, edition of 5'
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - image-13.jpg
+  caption: 'Muslim Bather, 2010, Mixed media processed photograph  40 x 55 cm, edition of 5'
+  inquire: 'false'
+  worktitle: ""

@@ -1,0 +1,27 @@
+title: About
+
+tabs:
+    bio:
+        label: Content
+        icon: text
+        fields:
+            coverimage:
+                type: files
+                label: Cover Image
+                multiple: false
+            text:
+                extends: fields/textarea
+                label: Text
+    pagefiles:
+        label: Page Files
+        icon: folder
+        sections:
+            pagefiles:
+                type: files
+                headline: Page Files
+                layout: list
+
+
+
+
+

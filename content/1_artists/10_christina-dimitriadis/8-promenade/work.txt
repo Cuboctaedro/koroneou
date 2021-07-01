@@ -1,0 +1,27 @@
+Title: Promenade
+
+----
+
+Works:
+
+- 
+  image:
+    - spaziergang-1.jpg
+  caption: >
+    Promenade, 2004, lambda print, 100 x 100
+    cm
+  inquire: 'false'
+- 
+  image:
+    - spaziergang-2.jpg
+  caption: >
+    Promenade, 2004, lambda print, 100 x 100
+    cm
+  inquire: 'false'
+- 
+  image:
+    - spaziergang-3.jpg
+  caption: >
+    Promenade, 2004, lambda print, 100 x 100
+    cm
+  inquire: 'false'

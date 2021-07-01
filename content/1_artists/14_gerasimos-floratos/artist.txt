@@ -1,0 +1,121 @@
+Title: Gerasimos Floratos
+
+----
+
+Type: represented
+
+----
+
+Coverimage: 
+
+----
+
+Biography:
+
+Born 1986 in New York, USA.
+Lives and works in New York and London.
+
+### Solo Exhibitions
+#### 2020
+“Bismuth”, Mitchell-Innes & Nash, New York, US
+#### 2019
+"There’s a sidewalk inside this gut", Tanya Leighton Gallery, Berlin, DE
+#### 2018
+"1977", Eleni Koroneou Gallery, Athens, GR 
+"Slangwich Motel", Schloss, Oslo, NO
+
+#### 2017
+"Soft Bone Journey", Armada, Milan, IT
+
+#### 2016
+"BIG TOWN", Pilar Corrias Gallery, London, UK
+"Gerasimos Floratos", White Columns, New York City, US
+
+### Group Exhibitions
+#### 2019
+"Artists I Steal From", Curated by Alvaro Barrington and Julia Peyton-Jones, Thaddeus Ropac, London, UK 
+"Malmo Sessions", Carl Kostyal, Malmo, SE
+"Senior Coconut: Eddie Martinez, Gerasimos Floratos, Delacruz", Reyes | Finn, Detroit, US 
+#### 2018
+"10 years: 100 sculptures", Anonymous Gallery, Mexico City, Mexico
+"Nothing Will Be as Before – Ten Years of Tanya Leighton", Tanya Leighton Gallery, Berlin, DE
+"New York By Night", curated by Spencer Sweeney, HDM Gallery Beijing, CN
+"Sunny Days", In Collaboration with Yeson Art Center, Hot Wheels Projects, Athens , GR
+"Slump Love: Gerasimos Floratos and Christina Quarles", Pilar Corrias Gallery, London, UK
+
+#### 2017
+"Gerasimos Floratos and Veronica Bruce", Schloss at Coast Contemporary (curated by Ida Ekblad), Oslo, NO
+
+#### 2016
+"A Being in the World", Salon 94 (curated by Jayson Musson), New York City, US
+"The Great Figure Part Two", The Journal Gallery, Brooklyn, US
+"Lost For Words, Murray Guy", (organized by Matthew Higgs), New York City, US
+"An Increasingly Desperate Man", Alter Space (curated by Quintessa Matranga), San Francisco, US
+
+#### 2015
+"Crowded House, Harper's Books", East Hampton, US
+"Peek-A-Boo-Pair-Ah-Dice", Know More Games, Brooklyn, US
+"Box Lunch", Skylab, Columbus, US
+
+### Curated Exhibitions
+#### 2019
+Heavy Sauce, Fountain House Gallery, New York City, US 
+#### 2018
+"Guerneville", Curated with Ross Simonini, NIAD Art Center, Oakland, US
+
+#### 2017
+"Adult Swim", Pilar Corrias Gallery, London, UK
+
+### Bibliography
+#### 2018
+Aleksi Mannilla, “Gatesmart fra utsiden og inn”, Morgenbladet, April 2018
+Samen Joachim Helsvigm, Rennestenspoeten, Kunstkritikk, April 2018
+Gerasimos Floratos, Soft Bone Journey, Mousse Publishing, 2018
+Ilaria Bombelli, “Gerasimos Floratos: “Soft Bone Journey””, Art Agenda, 16 January 2018
+Michela Moro (translated by Marguerite Shore), “Critic’s Pick: Gerasimos Floratos, Soft Bone Journey at Armada”, Artforum, January 2018
+
+#### 2017
+The Editors of ARTnews, “Consumer Reports: Gerasimos Floratos”, ARTnews, November 2017
+Harriet Thorpe, “Gerasimos Floratos: Big Town”, Studio International, January 2017
+
+#### 2016
+Chris Mansour, “The Amateur’s Embrace: Gerasimos Floratos @ White Columns”, Caesura, May 2016
+Rachel Small, “Gerasimos Floratos”, Interview Magazine, March 2016
+“The W.C. #52 Gerasimos Floratos and Eddie Martinez”, White Columns, March 2016
+
+----
+
+Works:
+
+- 
+  image:
+    - gf_00001.jpg
+  caption: >
+    External Soft Body Blastoid, 2018,
+    Acrylic and oil on canvas, 212 x 166 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - gf_0001.jpg
+  caption: >
+    Andys Heavy Boy, 2018, Acrylic and oil
+    on canvas, 67 x 85 inches (170 x 216 cm)
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - gf_0002.jpg
+  caption: >
+    Complex Min, 2018, Acrylic and oil on
+    canvas, 214.5 x 176.5 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - gf_0006.jpg
+  caption: >
+    Minion Advancement, 2018, Acrylic and
+    oil on canvas, 183 x 244 cm
+  inquire: 'false'
+  worktitle: ""

@@ -1,0 +1,299 @@
+@import
+  'variables',
+  'functions';
+
+
+/**
+ * Lightbox link
+ *
+ */
+
+.tobii-zoom {
+  &__icon {
+    display: none;
+  }
+}
+
+// Hide scrollbar if lightbox is displayed
+
+.tobii-is-open {
+  overflow-y: hidden;
+}
+
+/**
+ * Lightbox
+ *
+ */
+
+.tobii {
+  background-color: var(--lightbox-background);
+  bottom: 0;
+  box-sizing: border-box;
+  contain: strict;
+  font-size: var(--base-font-size);
+  left: 0;
+  line-height: 1.5;
+  overflow: hidden;
+  position: fixed;
+  right: 0;
+  top: 0;
+  z-index: var(--lightbox-z-index);
+
+
+  &[aria-hidden='true'] {
+    display: none;
+  }
+
+  & *,
+  & *::before,
+  & *::after {
+    box-sizing: inherit;
+  }
+}
+
+
+/**
+ * Slider
+ *
+ */
+
+.tobii__slider {
+  bottom: 0;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  will-change: transform;
+
+
+  &[aria-hidden='true'] {
+    display: none;
+  }
+
+  @media screen and (prefers-reduced-motion: no-preference) {
+
+    &--animate:not(&--is-dragging) {
+      transition-duration: var(--transition-duration);
+      transition-property: transform;
+      transition-timing-function: var(--transition-timing-function);
+    }
+  }
+
+  &--is-draggable [data-type] {
+    cursor: grab;
+  }
+
+  &--is-dragging [data-type] {
+    cursor: grabbing;
+  }
+}
+
+/**
+ * Slide
+ *
+ */
+
+.tobii__slide {
+  align-items: center;
+  display: flex;
+  height: 100%;
+  justify-content: center;
+  width: 100%;
+
+
+  &:not(&--is-active) {
+    visibility: hidden;
+
+    @media screen and (prefers-reduced-motion: no-preference) {
+      transition-duration: var(--transition-duration);
+      transition-property: visibility;
+      transition-timing-function: var(--transition-timing-function);
+    }
+  }
+
+  & [data-type] {
+    max-height: var(--slide-max-height);
+    max-width: var(--slide-max-width);
+    overflow: hidden;
+    overflow-y: auto;
+    overscroll-behavior: contain;
+  }
+
+  & iframe,
+  & video {
+    display: block !important;
+  }
+
+  & figure {
+    margin: 0;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-height: 90vh;
+    max-width: 90vw;
+
+
+    & > img {
+      display: block;
+      // height: auto;
+      // max-height: var(--slide-max-height);
+      // max-width: var(--slide-max-width);
+      // width: auto;
+    }
+
+  }
+
+  & [data-type='html'] {
+
+
+
+    & video {
+      cursor: auto;
+      max-height: var(--slide-max-height);
+      max-width: var(--slide-max-width);
+    }
+  }
+
+  & [data-type='iframe'] {
+
+    /* Fix iframe scrolling on iOS */
+    -webkit-overflow-scrolling: touch;
+    transform: translate3d(0, 0, 0);
+
+
+    & iframe {
+      height: var(--slide-max-height);
+      width: var(--slide-max-width);
+    }
+  }
+}
+
+/**
+ * Buttons
+ *
+ */
+
+.tobii__btn {
+  appearance: none;
+  background-color: transparent;
+  border: em(1) solid transparent;
+  color: #000000;
+  cursor: pointer;
+  font: inherit;
+  line-height: 1;
+  margin: 0;
+  opacity: 1;
+  padding: 0;
+  position: absolute;
+  touch-action: manipulation;
+  will-change: opacity;
+  z-index: 1;
+
+  @media screen and (prefers-reduced-motion: no-preference) {
+    transition-duration: var(--transition-duration);
+    transition-property: opacity, transform;
+    transition-timing-function: var(--transition-timing-function);
+    will-change: opacity, transform;
+  }
+
+
+  & svg {
+    fill: none;
+    height: 2rem;
+    pointer-events: none;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-width: 1;
+    stroke: currentColor;
+    width: 2rem;
+  }
+
+  &:active,
+  &:focus,
+  &:hover {
+    opacity: 0.6;
+  }
+
+  &--previous,
+  &--next {
+    top: 50%;
+    transform: translateY(-50%);
+  }
+
+  &--previous {
+    left: em(16);
+  }
+
+  &--next {
+    right: em(16);
+  }
+
+  &--close {
+    right: em(16);
+    top: em(16);
+  }
+
+  &:disabled,
+  &[aria-hidden='true'] {
+    display: none;
+  }
+}
+
+/**
+ * Counter
+ *
+ */
+
+.tobii__counter {
+  background-color: var(--counter-background);
+  color: var(--counter-color);
+  font-size: em(20);
+  left: em(18);
+  line-height: 1;
+  position: absolute;
+  top: em(40);
+  z-index: 1;
+
+
+  &[aria-hidden='true'] {
+    display: none;
+  }
+}
+
+/**
+ * Loader
+ *
+ */
+
+.tobii__loader {
+  display: inline-block;
+  height: em(100);
+  left: 50%;
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: em(100);
+
+
+  &::before {
+    animation: spin 1s infinite;
+    border-radius: 100%;
+    border: em(4) solid #949ba3;
+    border-top-color: var(--loader-color);
+    bottom: 0;
+    content: '';
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: 1;
+  }
+}
+
+@keyframes spin {
+
+  to {
+    transform: rotate(360deg);
+  }
+}

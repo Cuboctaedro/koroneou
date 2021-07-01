@@ -1,0 +1,52 @@
+Title: My favourite games, 2004
+
+----
+
+Works:
+
+- 
+  image:
+    - did-i-win.jpg
+  caption: >
+    Did I win, 2004, C-print on aluminum, 50
+    x 75 cm, edition 1/5
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - from-discus.jpg
+  caption: >
+    From discus to eternity, 2004, C-print
+    on aluminum, 50 x 75 cm, edition 1/5
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - gently-swimming.jpg
+  caption: "Gently swimming at a friend's bed, 2004, C-print on aluminum, 50 x 75 cm, edition 1/5"
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - in-between.jpg
+  caption: >
+    In between, 2004, C-print on aluminum,
+    50 x 75 cm, edition 1/5
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - looking-for-you.jpg
+  caption: >
+    Looking for you, 2004, C-print on
+    aluminum, 50 x 75 cm, edition 1/5
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - sword-fighting.jpg
+  caption: >
+    Sword fighting, 2004, C-print on
+    aluminum, 50 x 75 cm, edition 1/5
+  inquire: 'false'
+  worktitle: ""

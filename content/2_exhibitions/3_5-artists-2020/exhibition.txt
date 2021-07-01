@@ -1,0 +1,107 @@
+Title: 5 Artists
+
+----
+
+Coverimage: 
+
+----
+
+Startdate: 2020-03-06
+
+----
+
+Enddate: 2020-06-13
+
+----
+
+Artists:
+
+- artists/liam-everett
+- artists/gerasimos-floratos
+- artists/alex-hubbard
+- artists/helmut-middendorf
+- artists/panos-papadopoulos
+
+----
+
+Otherartists: 
+
+----
+
+Views:
+
+- 
+  image:
+    - 5a_001.jpg
+  caption: ""
+- 
+  image:
+    - 5a_002.jpg
+  caption: ""
+- 
+  image:
+    - 5a_003.jpg
+  caption: ""
+- 
+  image:
+    - 5a_004.jpg
+  caption: ""
+
+----
+
+Artworks:
+
+- 
+  image:
+    - hm_001.jpg
+  caption: 'Helmut Middendorf, *Give a shit*, 2020, Acrylic and collage on canvas, 35 x 35 cm'
+  inquire: 'true'
+- 
+  image:
+    - hm_002.jpg
+  caption: 'Helmut Middendorf, *Yoga Pants*, 2020, Acrylic and collage on canvas, 35 x 35 cm'
+  inquire: 'true'
+
+----
+
+Pressrelease:
+
+Opening reception: Friday 6 March, 8-10 p.m.
+
+
+Eleni Koroneou Gallery is pleased to present the group exhibition titled “5 Artists” with paintings by Liam Everett, Alex Hubbard, Gerasimos Floratos, Helmut Middendorf and Panos Papadopoulos.
+
+
+**Liam Everett** was born in 1973 in Rochester (NY); he currently lives and works in Paris. His painting practice revolves around a series of questions concerning systems of support, threshold points, integration and transparency. Everett focuses on the two-dimensionality of the painting, which has the potential to function as a filter, in which light, air and other various phenomena are allowed to come forth. His paintings undergo an intense process of additive and subtractive applications. They are also exposed directly to the sun, wind, salt and alcohol in an effort to disturb and destabilize their structural integrity.
+
+**Alex Hubbard** was born in 1975 in Oregon; he currently lives and works in LA. In the current show he is presenting two paintings from different periods. Mostly his works are created through the enlargement of ink renderings, its transferal to linen panels, and the application of poured and painted urethane and fiberglass; an operation which alternates the works orientation from the floor to an upright position. The use of vibrant colors and curved lines is characteristic in his works, composing painting-fields with irregular shapes that emphasize the density of the color that shifts on the canvas.
+
+**Gerasimos Floratos** was in 1986 in New York, where he lives and works. Being a self-taught, Floratos has created his own painterly world and aesthetics incorporating various elements derived from his immediate surroundings and encounters of life in the big city. The artist is using curved lines in heavy colored oil paint and bold brushstrokes to depict his autobiographical characters that emerge in his works. Uncanny cartoons and animal-like creatures in irregular forms, resembling mostly rabbits and enlarged bunnies reside on his canvases and are perceived to be the artist’s alter-ego. 
+
+**Helmut Middendorf** was born in 1953 in Dinklage, Germany; he lives and works in Berlin and Athens. In the current show he will present an abstract painting from 2003. The work consists of multiple color layers and abstract structures. Middendorf experiments with different painting processes, he pours the color on the canvas, uses paint rolles and over-all structures, he projects slides, works with overlapping lines and stains and reacts to random results. In many paintings of that period someone could recognize comic figures and other accidental images that are not always recognizable because of their abstractive variations.
+
+**Panos Papadopoulos ** was born in 1975 in Athens, where he lives and works. His work is a mixture of conceptual, minimal, abstract and expressionist art. Papadopoulos creates canvases and works on paper, portraying snapshots of his everyday life, his studio and his surroundings. The result is a series of interiors and urban environments, full of irony, humor and hidden meanings. He provides an interesting counterpoint in his work by creating worlds bordering the real and the imagined, inspired from everyday life while his paintings function psychotherapeutically as a reflection on the personal experiences of the artist.
+
+----
+
+Videoembed: 
+
+----
+
+Line-a: 
+
+----
+
+Line-b: 
+
+----
+
+Artistscheck: liam-everett, gerasimos-floratos, alex-hubbard, helmut-middendorf, panos-papadopoulos
+
+----
+
+Artislslist: 
+
+----
+
+Line-c: 

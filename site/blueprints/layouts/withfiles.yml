@@ -1,0 +1,10 @@
+columns:
+    main:
+        width: 3/4
+    sidebar:
+        width: 1/4
+        sections:
+            pagefiles:
+                type: files
+                headline: Page Files
+                layout: list

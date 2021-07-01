@@ -1,0 +1,41 @@
+Title: Miramare
+
+----
+
+Works:
+
+- 
+  image:
+    - miramame-02.jpg
+  caption: >
+    Miramare, 2011, Inkjet print, 110 x 89
+    cm, edition of 5 + 1AP
+  inquire: 'false'
+- 
+  image:
+    - miramare-03.jpg
+  caption: >
+    Miramare, 2011, Inkjet print, 110 x 89
+    cm, edition of 5 + 1AP
+  inquire: 'false'
+- 
+  image:
+    - miramare-04.jpg
+  caption: >
+    Miramare, 2011, Inkjet print, 110 x 89
+    cm, edition of 5 + 1AP
+  inquire: 'false'
+- 
+  image:
+    - miramare-5.jpg
+  caption: >
+    Miramare, 2011, Inkjet print, 110 x 89
+    cm, edition of 5 + 1AP
+  inquire: 'false'
+- 
+  image:
+    - miramare-7.jpg
+  caption: >
+    Miramare, 2011, Inkjet print, 110 x 89
+    cm, edition of 5 + 1AP
+  inquire: 'false'

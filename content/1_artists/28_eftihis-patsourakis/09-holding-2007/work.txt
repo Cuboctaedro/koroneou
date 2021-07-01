@@ -1,0 +1,24 @@
+Title: Holding
+
+----
+
+Works:
+
+- 
+  image:
+    - holding-01.jpg
+  caption: 'Ηolding 1 and 2,  2008, Pencil drawing on used photo album paper,  26 x 20.5 (each unframed)'
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - holding-02.jpg
+  caption: 'Holding 3 and 4, 2008. Pencil drawing on used photo album paper,  26 x 20.5 (each unframed)'
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - holding-03.jpg
+  caption: 'Holding 5 and 6, 2008, Pencil drawing on used photo album paper,  26 x 20.5 (each unframed)'
+  inquire: 'false'
+  worktitle: ""

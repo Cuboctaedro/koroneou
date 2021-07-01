@@ -1,0 +1,37 @@
+label: Artworks
+type: structure
+columns:
+    image:
+        width: 1/4
+    caption:
+        width: 1/2
+    inquire:
+        width: 1/4
+        align: right
+    worktitle:
+        text: false
+fields:
+    image:
+        label: Image
+        type: files
+        multiple: false
+        layout: cards
+    caption:
+        label: Caption
+        type: textarea
+        size: small
+        buttons:
+          - italic
+          - bold
+          - link
+    inquire:
+        label: Inquire Button
+        type: toggle
+        text: 
+          - "no"
+          - "yes"
+    worktitle:
+        label: Work Title
+        type: text
+        when:
+            inquire: true

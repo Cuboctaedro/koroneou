@@ -1,0 +1,13 @@
+Title: Men and Women
+
+----
+
+Works:
+
+- 
+  image:
+    - men-women.jpg
+  caption: >
+    Men and Women, 2005, Lambda print, 180 x
+    180 cm, edition of 3 + 1AP
+  inquire: 'false'

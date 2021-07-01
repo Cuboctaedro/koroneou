@@ -1,0 +1,46 @@
+Title: Sand
+
+----
+
+Works:
+
+- 
+  image:
+    - sand-01.jpg
+  caption: >
+    Sand 04, 2008, Photo album paper
+    collage, 155 x 105 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - sand-02.jpg
+  caption: >
+    Sand 05, 2008, Photo album paper
+    collage, 155 x 105 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - sand-03.jpg
+  caption: >
+    Sand 06, 2008, Photo album paper
+    collage, 155 x 105 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - sand-04.jpg
+  caption: >
+    Sand 07, 2008, Photo album paper
+    collage, 155 x 105 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - sand-05.jpg
+  caption: >
+    Sand 08, 2008, Photo album paper
+    collage, 155 x 105 cm
+  inquire: 'false'
+  worktitle: ""

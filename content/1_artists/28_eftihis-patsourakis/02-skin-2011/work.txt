@@ -1,0 +1,32 @@
+Title: Skin
+
+----
+
+Works:
+
+- 
+  image:
+    - skin-01.jpg
+  caption: >
+    Skin 21, Installation view at DESTE
+    Prize 2011, Museum of Cycladic Art,
+    Athens, Exchanged sisal door mats from
+    Athens, 364 x 293 cm (total dimension)
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - skin-02.jpg
+  caption: >
+    Skin 21, Installation view at DESTE
+    Prize 2011, Museum of Cycladic Art,
+    Athens, Exchanged sisal door mats from
+    Athens, 364 x 293 cm (total dimension)
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - skin-03.jpg
+  caption: 'Skin #3, Installation view at Eleni Koroneou Gallery, 2011, Exchanged sisal door mats from Athens, 21 pieces 363 x 292 cm (total dimension)'
+  inquire: 'false'
+  worktitle: ""

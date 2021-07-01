@@ -1,0 +1,36 @@
+Title: Skeleton
+
+----
+
+Works:
+
+- 
+  image:
+    - skeleton-01.jpg
+  caption: 'Skeleton #1, 2007, Collage made of passport photo paper cut out, 27 x 22 cm'
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - skeleton-02.jpg
+  caption: 'Skeleton #3, 2007, Collage made of passport photo paper cut out, 64,5 x 77,5 cm'
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - skeleton-03.jpg
+  caption: 'Skeleton #2, 2007, Collage made of passport photo paper cut out, 65 x 88,5 cm'
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - skeleton-04.jpg
+  caption: 'Skeleton #7, 2007, Collage made of passport photo paper cut out, 69 x 80 cm'
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - skeleton-05.jpg
+  caption: 'Skeleton #6, 2007, Collage made of passport photo paper cut out, 19 x 19 cm'
+  inquire: 'false'
+  worktitle: ""

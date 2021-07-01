@@ -1,0 +1,86 @@
+Title: Building Living Leaving (Living Together)
+
+----
+
+Works:
+
+- 
+  image:
+    - living-together-01.jpg
+  caption: >
+    Building Living Leaving (Living
+    Together), 1999-1996, Lambda print, 120
+    x 120 cm, edition 3 + 1AP
+  inquire: 'false'
+- 
+  image:
+    - living-together-02.jpg
+  caption: >
+    Building Living Leaving (Living
+    Together), 1999-1996, Lambda print, 120
+    x 120 cm, edition 3 + 1AP
+  inquire: 'false'
+- 
+  image:
+    - living-together-03.jpg
+  caption: >
+    Building Living Leaving (Living
+    Together), 1999-1996, Lambda print, 120
+    x 120 cm, edition 3 + 1AP
+  inquire: 'false'
+- 
+  image:
+    - living-together-04.jpg
+  caption: >
+    Building Living Leaving (Living
+    Together), 1999-1996, Lambda print, 120
+    x 120 cm, edition 3 + 1AP
+  inquire: 'false'
+- 
+  image:
+    - living-together-05.jpg
+  caption: >
+    Building Living Leaving (Living
+    Together), 1999-1996, Lambda print, 120
+    x 120 cm, edition 3 + 1AP
+  inquire: 'false'
+- 
+  image:
+    - living-together-06.jpg
+  caption: >
+    Building Living Leaving (Living
+    Together), 1999-1996, Lambda print, 120
+    x 120 cm, edition 3 + 1AP
+  inquire: 'false'
+- 
+  image:
+    - living-together-07.jpg
+  caption: >
+    Building Living Leaving (Living
+    Together), 1999-1996, Lambda print, 120
+    x 120 cm, edition 3 + 1AP
+  inquire: 'false'
+- 
+  image:
+    - living-together-08.jpg
+  caption: >
+    Building Living Leaving (Living
+    Together), 1999-1996, Lambda print, 120
+    x 120 cm, edition 3 + 1AP
+  inquire: 'false'
+- 
+  image:
+    - living-together-09.jpg
+  caption: >
+    Building Living Leaving (Living
+    Together), 1999-1996, Lambda print, 120
+    x 120 cm, edition 3 + 1AP
+  inquire: 'false'
+- 
+  image:
+    - living-together-10.jpg
+  caption: >
+    Building Living Leaving (Living
+    Together), 1999-1996, Lambda print, 120
+    x 120 cm, edition 3 + 1AP
+  inquire: 'false'

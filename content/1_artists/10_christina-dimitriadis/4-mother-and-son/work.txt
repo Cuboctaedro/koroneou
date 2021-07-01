@@ -1,0 +1,13 @@
+Title: Mother and Son
+
+----
+
+Works:
+
+- 
+  image:
+    - motherson.jpg
+  caption: >
+    Mother and Son, 2011, Inkjet print, 60 x
+    60 cm
+  inquire: 'false'

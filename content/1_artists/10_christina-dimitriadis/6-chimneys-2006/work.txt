@@ -1,0 +1,27 @@
+Title: Chimneys
+
+----
+
+Works:
+
+- 
+  image:
+    - chimneys-1.jpg
+  caption: >
+    Chimneys, 2006, Lambda print, 120 x 120
+    cm, edition 3 + 1AP
+  inquire: 'false'
+- 
+  image:
+    - chimneys-2.jpg
+  caption: >
+    Chimneys, 2006, Lambda print, 120 x 120
+    cm, edition 3 + 1AP
+  inquire: 'false'
+- 
+  image:
+    - chimneys-3.jpg
+  caption: >
+    Chimneys, 2006, Lambda print, 120 x 120
+    cm, edition 3 + 1AP
+  inquire: 'false'

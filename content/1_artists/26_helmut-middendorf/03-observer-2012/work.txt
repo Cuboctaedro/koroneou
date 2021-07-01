@@ -1,0 +1,334 @@
+Title: Observer, 2012
+
+----
+
+Works:
+
+- 
+  image:
+    - observer-01.jpg
+  caption: >
+    Studiovisit, 2012, Collage on paper,
+    59.5 x 41.5 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - observer-02.jpg
+  caption: >
+    Luxus 2, 2012, Collage and acrylic on
+    paper, 65 x 50 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - observer-03.jpg
+  caption: >
+    Palette, 2012, Collage on paper, 29.6 x
+    21.1 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - observer-04.jpg
+  caption: >
+    Candles, 2012, Collage on paper, 29.7 x
+    54.7 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - observer-05.jpg
+  caption: >
+    Laugh, 2012, Collage on paper, 39.6 x
+    58.3 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - observer-06.jpg
+  caption: B/W, 2012, Collage on paper, 65 x 50 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - observer-07.jpg
+  caption: >
+    The Panic, 2012, Collage on paper, 52.8
+    x 50 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - observer-08.jpg
+  caption: >
+    Politics, 2012, Collage on cardboard, 53
+    x 40.4 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - observer-09.jpg
+  caption: >
+    Untitled (Home), 2012, Collage on paper,
+    65 x 53.7 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - observer-10.jpg
+  caption: >
+    Untitled (B), 2012, Collage on paper, 33
+    x 22.2 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - observer-11.jpg
+  caption: >
+    R.W.F., 2012, Collage on cardboard, 53 x
+    28.5 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - observer-12.jpg
+  caption: >
+    Untitled, 2012, Collage on cardboard, 35
+    x 46.8 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - observer-13.jpg
+  caption: >
+    Hundert Jahre Dauerstress, 2012, Collage
+    and acrylic on cardboard, 46.7 x 36.6 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - observer-14.jpg
+  caption: >
+    Fool, 2011, Collage and acrylic on
+    paper, 65 x 39 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - observer-15.jpg
+  caption: >
+    Murray, 2011, Collage and acrylic on
+    paper, 36.5 x 55 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - observer-16.jpg
+  caption: >
+    Untitled (G), 2011, Collage on paper, 38
+    x 40.7 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - observer-18.jpg
+  caption: >
+    Untitled (L), 2011, Collage on paper,
+    39.5 x 28.1 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - observer-18.jpg
+  caption: >
+    Untitled, 2007/2010, Collage on paper,
+    39.6 x 30.2 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - observer-19.jpg
+  caption: >
+    Sledge, 2008, Collage on paper, 39.8 x
+    32 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - observer-20.jpg
+  caption: >
+    Hole lotta, 2007, Collage on paper, 39.1
+    x 29.8 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - observer-21.jpg
+  caption: >
+    Hair, 2005, Collage on paper, 39.0 x
+    29.7 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - observer-22.jpg
+  caption: >
+    Untitled (Remix), 1999, Collage and
+    watercolour on paper, 39.8 x 30.5 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - observer-23.jpg
+  caption: >
+    Asspainter, 1999, Collage and
+    watercolour on paper, 38.2 x 29.7 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - observer-30.jpg
+  caption: >
+    Big Hair, 2011, Watercolour on paper,
+    38.5 x 29.5 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - observer-31.jpg
+  caption: >
+    Untitled (A), 2010, Watercolour on
+    paper, 39.6 x 29.6 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - observer-32.jpg
+  caption: >
+    Obsession, 2010, Watercolour and pencil
+    on paper, 38.5 x 29.5 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - observer-33.jpg
+  caption: >
+    "What about…", 2009, Watercolour on
+    paper, 38,7 x 29,6 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - observer-34.jpg
+  caption: >
+    Cat (Yes but..), 2009, Watercolour on
+    paper, 38,8 x 29,6 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - observer-35.jpg
+  caption: >
+    Let them eat cake, 2009, Watercolour on
+    paper, 38,7 x 29,6 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - observer-36.jpg
+  caption: >
+    Waiting (Vulture wings), 2009,
+    Watercolour on paper, 38,7 x 29,6 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - observer-37.jpg
+  caption: >
+    Smells…, 2009, Watercolour on paper,
+    40,4 x 29,6 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - observer-38.jpg
+  caption: >
+    Play loud, 2009, Watercolour on paper,
+    38,7 x 29,6 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - observer-39.jpg
+  caption: >
+    Terror and Boredom (Green), 2009,
+    Watercolour on paper, 38,7 x 29,6 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - observer-40.jpg
+  caption: >
+    Untitled (DH), 1997-2009, Watercolour on
+    paper, 38.5 x 29.6 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - observer-41.jpg
+  caption: >
+    Cosmos, 2008, Watercolour and pencil on
+    paper, 38.5 x 29.6 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - observer-42.jpg
+  caption: >
+    Monkey-back, 2008, Watercolour on paper,
+    38,8 x 29,6 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - observer-43.jpg
+  caption: >
+    And you?, 2008, Watercolour on paper,
+    38,7 x 29,6 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - observer-44.jpg
+  caption: >
+    The Misery..", 2008, Watercolour on
+    paper, 38,8 x 29,6 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - observer-45.jpg
+  caption: >
+    Losers we salute you, 1997, Watercolour,
+    pencil and collage on paper, 38.7 x 29.6
+    cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - observer-46.jpg
+  caption: >
+    Home, 1997, Watercolour on paper, 38.6 x
+    29.5 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - observer-47.jpg
+  caption: >
+    Big cheese attracts big rats, 1993,
+    Watercolour and pencil on paper, 38.5 x
+    29.6 cm
+  inquire: 'false'
+  worktitle: ""

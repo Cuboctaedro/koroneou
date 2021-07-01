@@ -1,0 +1,20 @@
+Title: Open Closed Doors
+
+----
+
+Works:
+
+- 
+  image:
+    - open-closed-door-01.jpg
+  caption: >
+    Open Closed Doors, 1996, Lambda print,
+    180 x 180 cm, edition of 3 + 1AP
+  inquire: 'false'
+- 
+  image:
+    - open-closed-door-02.jpg
+  caption: >
+    Open Closed Doors, 1996, Lambda print,
+    180 x 180 cm, edition of 3 + 1AP
+  inquire: 'false'

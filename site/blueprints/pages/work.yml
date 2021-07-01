@@ -1,0 +1,22 @@
+title: Work
+
+tabs:
+    artworks:
+        label: Artworks
+        icon: image
+        fields:
+            works:
+                extends: fields/artworks
+    pagefiles:
+        label: Page Files
+        icon: folder
+        sections:
+            pagefiles:
+                type: files
+                headline: Page Files
+                layout: list
+
+
+
+
+

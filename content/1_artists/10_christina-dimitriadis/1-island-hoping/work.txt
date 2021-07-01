@@ -1,0 +1,26 @@
+Title: Island Hoping
+
+----
+
+Works:
+
+- 
+  image:
+    - island-hoping_001.jpg
+  caption: ""
+  inquire: 'false'
+- 
+  image:
+    - island-hoping_002.jpg
+  caption: ""
+  inquire: 'false'
+- 
+  image:
+    - island-hoping_003.jpg
+  caption: ""
+  inquire: 'false'
+- 
+  image:
+    - island-hoping_004.jpg
+  caption: ""
+  inquire: 'false'

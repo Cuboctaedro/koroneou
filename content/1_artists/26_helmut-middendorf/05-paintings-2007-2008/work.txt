@@ -1,0 +1,106 @@
+Title: Paintings, 2007-2008
+
+----
+
+Works:
+
+- 
+  image:
+    - hm-paintings-2007-01.jpg
+  caption: 'PM - Ah-Ah, 2007, Acrylic and collage on canvas, 160 x 130 cm'
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - hm-paintings-2007-02.jpg
+  caption: 'PM - Jump, 2007, Acrylic and collage on canvas, 160 x 130 cm'
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - hm-paintings-2007-03.jpg
+  caption: 'PM - Ah, 2007, Acrylic and collage on canvas, 160 x 130 cm'
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - hm-paintings-2007-04.jpg
+  caption: 'PM - Klon, 2008, Acrylic and collage on canvas, 160 x 130 cm'
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - hm-paintings-2007-05.jpg
+  caption: 'PM - Staunen, 2008, Acrylic and collage on canvas, 160 x 130 cm'
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - hm-paintings-2007-06.jpg
+  caption: 'PM - Rotation, 2008, Acrylic and collage on canvas, 160 x 130 cm'
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - hm-paintings-2007-07.jpg
+  caption: 'PM - Home, 2008, Acrylic and collage on canvas, 160 x 130 cm'
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - hm-paintings-2007-08.jpg
+  caption: 'PM - Oh Lord, 2008, Acrylic and collage on canvas, 160 x 130 cm'
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - hm-paintings-2007-09.jpg
+  caption: >
+    Metamorphosis, 2008, Acrylic and collage
+    on canvas, 120 x 100 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - hm-paintings-2007-10.jpg
+  caption: 'PM - Whack, 2008, Acrylic and collage on canvas, 160 x 130 cm'
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - hm-paintings-2007-11.jpg
+  caption: >
+    Shut up, 2000/2008, Acrylic and collage
+    on canvas, 160 x 140 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - hm-paintings-2007-12.jpg
+  caption: >
+    Flaming Orange, 2007, Acrylic and
+    collage on canvas, 200 x 200 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - hm-paintings-2007-13.jpg
+  caption: >
+    World of Titmouse, 2007, Acrylic and
+    collage on canvas, 200 x 200 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - hm-paintings-2007-14.jpg
+  caption: >
+    Teaserama II, 2007, Acrylic and collage
+    on canvas, 200 x 130 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - hm-paintings-2007-15.jpg
+  caption: 'Huddle- Red, 2007, Acrylic and collage on canvas, 200 x 130 cm'
+  inquire: 'false'
+  worktitle: ""

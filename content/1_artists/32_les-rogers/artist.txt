@@ -1,0 +1,103 @@
+Title: Les Rogers
+
+----
+
+Type: exhibited
+
+----
+
+Coverimage: 
+
+----
+
+Biography:
+
+Born 1966, in New Jersey, USA
+Lives and works in New York, NY
+
+### Education
+
+1989 BFA, Rhode Island School of Design, RI
+
+### Solo Exhibitions
+
+#### 2012
+"Les Rogers", Half Gallery, New York City, NY
+"Carrie Moyer & Les Rogers", Galerie Suzanne Tarasiève Paris, France
+#### 2010
+Suzanne Tarasiève Galerie, Paris
+"Last House", Leo Koenig Inc., New York City, NY
+#### 2008
+Marabini Gallery, Bologna, Italy
+Galeria Maisterravalbuena, Madrid, Spain
+#### 2007
+"Late Night Paintings", Galerie Suzanne Tarasieve, Paris
+#### 2006 
+Leo Koenig Inc., New York City
+#### 2004 
+Galerie Suzanne-Tarasieve, Paris, France
+Galerie Karl-Heinz Meyer, Karlsruhe
+"Old School with Torben Giehler", Armory Art Centre, Palm Beach
+The Happy Lion Gallery, Los Angeles
+#### 2003 
+Galleri Christina Wilson, Copenhagen, Denmark
+Galerie Michael Janssen, Cologne, Germany
+#### 2002 
+Galleria Marabini, Bologna, Italy
+Leo Koenig Inc., New York City
+Eleni Koroneou Gallery, Athens, Greece
+Karlheinz Meyer, Karlsruhe, Germany
+#### 2001 
+Leo Koenig Inc., New York City
+
+### Group Exhibitions
+
+#### 2013
+"Group Show", Eleni Koroneou Gallery, Athens
+Nancy Margolis Gallery, New York City, NY
+"Carrie Moyer & Les Rogers", SUZANNE TARASIEVE / LOFT 19, Paris
+"Carrie Moyer & Les Rogers", Suzanne Tarasiève Galerie, Paris
+"Brucennial 2012 - Harder. Betterer. Fasterer. Strongerer", Brucennial, New York City, NY
+#### 2011
+"10 Años del Programa de Residencias", La Colección del CCA Andratx. 2001 – 2011 / KUNSTHALLE - CCA Andratx, Andratx 
+#### 2010
+"Four Projects", Haunch of Venison - New York, New York City, NY
+"Don't Piss on Me and Tell Me it's Raining", Apexart, New York City, NY
+"Bushwick Schlacht! - Germany vs. USA", Painting Pop Up Show , New York City, NY
+#### 2009
+"Get It Right Back To Where We Started From...", Leo Koenig Inc., New York City, NY
+#### 2008
+"FAXINATION", Loyal, Malmö
+"Between Us...", Leo Koenig Inc., New York City, NY
+#### 2007
+"Accrochage", Galleri Christina Wilson, Copenhagen
+"5 years anniversary show (groupshow with all artists represented by Galleri Christina Wilson)", Galleri Christina Wilson,Copenhagen, Denmark
+#### 2005
+"Self-Preservation Society", Leo Koenig Inc., New York
+#### 2004
+Galerie Rudolphe Janssen, Brussels
+#### 2003 
+The Happy Lion Gallery, Los Angeles
+#### 2002 
+Leo Koenig, Las Vegas, Las Vegas, NV
+"Swing Club", Galerie Michael Janssen, Cologne
+"The Dubrow Biennale", Kagan Martos Gallery, NYC
+#### 2001 
+"Come on Feel the Noise", Asbaek Gallery, Copenhagen, Denmark
+Centro Cultural Andratx, Spain
+#### 1999 
+Les Rogers, Brad Kahlhammer, Millree Hughes, Patrick Callery, NYC
+"Show", Elizabeth Dee Gallery, NYC
+
+----
+
+Works:
+
+- 
+  image:
+    - image_01.jpg
+  caption: >
+    Freedom Flashing, 2002, Oil on canvas,
+    243x336cm
+  inquire: 'false'
+  worktitle: ""

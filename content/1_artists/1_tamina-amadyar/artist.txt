@@ -1,0 +1,91 @@
+Title: Tamina Amadyar
+
+----
+
+Type: represented
+
+----
+
+Biography:
+
+Born 1989 in Kabul, Afghanistan
+Lives and works in Berlin, Germany
+
+
+### Education
+
+2008 – 2014 Kunstakademie Düsseldorf, under professor Tal R
+
+
+### Solo Exhibitions
+
+#### 2019
+Making Waves, Eleni Koroneou Gallery, Athens, Greece 
+The Big Dipper, Kewenig, Palma de Mallorca, Spain 
+It’s a match, Oldenburger Kunstverein, Oldenburg, Germany
+#### 2018
+BIG BLUE SKY, Kunstverein Reutlingen, Reutlingen, Germany (cat.)
+#### 2017
+10,000 hours, Galerie Guido W. Baudach, Berlin
+#### 2015
+Galerie Guido W. Baudach, Berlin
+ 
+### Selected Group Exhibitions
+
+#### 2019
+Adrian, George, Peter, Sofia, Tamina., P420 Art Gallery, Bologna, Italy
+Du coq à l'âne, curated by Paul McDevitt and Cornelius Quabeck, Le Bel Ordinaire, Billière, France
+#### 2018
+In medias res curated by Guido W. Baudach, Hiromi Yoshii Gallery, Tokyo
+last dance, Autocenter at the KINDL, Berlin
+Someplace Special, Gillmeier Rech, Berlin
+#### 2017
+Quintessenz, Galerie Guido W. Baudach, Berlin
+Kunst als Spiegel der Gesellschaft – Werke aus der Sammlung der DekaBank, Schloss Neuhardenberg, Neuhardenberg, Germany
+Memories of an elephant, Kunsthaus Essen, Essen, Germany
+Monday is a http://koroneougallery.com/panel/pages/artists/tamina-amadyar/edit#day between Sunday and Tuesday, Tanya Leighton, Berlin
+#### 2016
+Der Funke soll in Dir sein, Salon Dahlmann, Berlin
+#### 2015
+Tamina Amadyar / Christiane Blattmann, Agnes Maybach, Cologne, Germany
+You’re just too good to be true, Contemporary Fine Arts, Berlin
+
+### Articles
+#### 2019
+„Tipps und Termine, Wohin am Wochenende?“, Monopol, 03.05.2019
+#### 2018 
+Claudia Beckschebe, „Traumberuf Künstlerin“, Dein Spiegel, pp. 50-51, Nr. 8 I 2018 
+Florian Illies, „So sieht das neue aus“, Zeit Magazin, pp. 38-47, 15.3.2018 
+Martin Bernklau, „Raumgreifendes Doppelgesicht“, GEA, 8.3.2018
+„Gallery Guido W. Baudach – Arco Madrid 2018“, FG Art & Lifestyle, 23.2.2017 
+#### 2017 
+Gregor Quack, „Tamina Amadyar – Anfang ohne Ende“, Blau, Nr. 21/September 2017, pp. 64-69 
+Silke Hochmann, Watchlist, „Tamina Amadyar“, 04.2017, p. 28
+Beate Scheder, „Den Raum im Bild suchen“, TAZ, 26.01.2016, p. 15 
+#### 2016 
+Forbes „30 under 30: The Arts“
+#### 2015 
+Gesine Borcherdt, „Im Rausch der Bilder“, Die Welt, 20.09.2015, p. 25
+
+----
+
+Works:
+
+- 
+  image:
+    - ta-m-263_rgb_b-copy.jpg
+  caption: >
+    Agora, 2019, Pigment, glutin on canvas,
+    200 x 155 cm
+  inquire: 'false'
+- 
+  image:
+    - ta-m-264_b-copy-3.jpg
+  caption: >
+    Avenues, 2019, Pigment, glutin on
+    canvas, 200 x 160 cm
+  inquire: 'false'
+
+----
+
+Coverimage: - ta-m-264_b-copy-3.jpg

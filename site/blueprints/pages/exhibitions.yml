@@ -1,0 +1,11 @@
+title: Exhibitions
+
+sections:
+    list:
+        type: pages
+        layout: cards
+        templates: exhibition
+        headline: Exhibitions
+        status: all
+        info: "{{ page.getStartDate() }} - {{ page.getEndDate() }}"
+        image: page.getCoverImage()

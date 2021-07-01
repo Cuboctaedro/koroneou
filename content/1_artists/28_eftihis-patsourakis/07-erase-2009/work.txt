@@ -1,0 +1,62 @@
+Title: Erase
+
+----
+
+Works:
+
+- 
+  image:
+    - erase-01.jpg
+  caption: >
+    Erase 17, 2007, Oil on found photograph,
+    9,5 x 12 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - erase-02.jpg
+  caption: >
+    Erase 21, 2007, Oil on found photograph,
+    11,5 x 9,5 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - erase-03.jpg
+  caption: >
+    Erase 26, 2007, Oil on found photograph,
+    20 x 15,5 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - erase-04.jpg
+  caption: >
+    Erase, 2007, Oil on found photograph,
+    11,5 x 9,5 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - erase-05.jpg
+  caption: ""
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - erase-06.jpg
+  caption: ""
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - erase-07.jpg
+  caption: ""
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - erase-08.jpg
+  caption: ""
+  inquire: 'false'
+  worktitle: ""

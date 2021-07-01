@@ -1,0 +1,48 @@
+Title: Ethereal Wave
+
+----
+
+Works:
+
+- 
+  image:
+    - lb-ethereal-01.jpg
+  caption: >
+    Danielle, 2011, Chromogenetic print, 127
+    x 101 cm, edition of 6 + 2 AP
+  inquire: 'false'
+- 
+  image:
+    - lb-ethereal-02.jpg
+  caption: >
+    Erika, 2011, Chromogenetic print, 104 x
+    70 cm, edition of 6 + 2 AP
+  inquire: 'false'
+- 
+  image:
+    - lb-ethereal-03.jpg
+  caption: >
+    Malik, 2011, Chromogenetic print, 127 x
+    101 cm, edition of 6 + 2 AP
+  inquire: 'false'
+- 
+  image:
+    - lb-ethereal-04.jpg
+  caption: >
+    Ra upside down, 2011, Chromogenetic
+    print, 104 x 70 cm, edition of 6 + 2 AP
+  inquire: 'false'
+- 
+  image:
+    - lb-ethereal-05.jpg
+  caption: >
+    Ra, 2011, Chromogenetic print, 127 x 101
+    cm, edition of 6 + 2 AP
+  inquire: 'false'
+- 
+  image:
+    - lb-ethereal-06.jpg
+  caption: >
+    Shola, 2011, Chromogenetic print, 127 x
+    101 cm, edition of 6 +2 AP
+  inquire: 'false'

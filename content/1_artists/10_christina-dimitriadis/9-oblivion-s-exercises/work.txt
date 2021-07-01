@@ -1,0 +1,16 @@
+Title: Oblivion's Exercises
+
+----
+
+Works:
+
+- 
+  image:
+    - uuzv-beded-1.jpg
+  caption: "Oblivion's Exercises (Bedded), 2004, Lambda print, 120 x 120 cm, edition 3 + 1AP"
+  inquire: 'false'
+- 
+  image:
+    - uuzv-upsidedown-2.jpg
+  caption: "Oblivion's Exercises (Upside Down), 2004, Lambda print, 120 x 120 cm, edition 3 + 1AP"
+  inquire: 'false'

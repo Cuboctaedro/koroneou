@@ -1,0 +1,148 @@
+title: Site
+
+tabs:
+    exhibitions:
+        label: Exhibitions
+        icon: calendar
+        columns:
+            main:
+                sections:
+                    content:
+                        type: pages
+                        layout: cards
+                        templates: exhibition
+                        headline: Exhibitions
+                        status: all
+                        parent: site.find("exhibitions")
+                        info: "{{ page.getStartDate() }} - {{ page.getEndDate() }}"
+    artists:
+        label: Artists
+        icon: user
+        columns:
+            all:
+                sections:
+                    list:
+                        type: pages
+                        layout: list
+                        templates: artist
+                        headline: Artists
+                        status: all
+                        parent: site.find("artists")
+                        info: "{{ page.type.upper() }}"
+                        image: page.getCoverImage()
+    news:
+        label: Newes
+        icon: user
+        columns:
+            newsall:
+                sections:
+                    newslist:
+                        type: pages
+                        layout: list
+                        templates:
+                          - about
+                          - post
+                        headline: News
+                        status: all
+                        create: news
+                        parent: site.find("news")
+    otherpages:
+        label: Pages
+        icon: page
+        columns:
+            pages:
+                sections:
+                    first:
+                        type: pages
+                        layout: list
+                        templates:
+                          - about
+                          - newsletter
+                          - contact
+                        headline: Pages
+                        status: all
+                        create: false
+    sitedata:
+        label: Site Data
+        icon: cog
+        columns:
+            siteall:
+                sections:
+                    site:
+                        type: fields
+                        fields:
+                            contact:
+                                type: headline
+                                label: Contact Data
+                            address:
+                                type: text
+                                label: Address
+                            phone:
+                                type: tel
+                                label: Phone
+                            mobile:
+                                type: tel
+                                label: Mobile
+                            emails:
+                                type: structure
+                                label: Emails
+                                fields:
+                                    mail:
+                                        type: email
+                                        label: Email
+                                    name:
+                                        type: text
+                                        label: Name
+                            social:
+                                type: headline
+                                label: Social Media
+                            facebook:
+                                type: url
+                                label: Facebook
+                            twitter:
+                                type: url
+                                label: Twitter
+                            instagram:
+                                type: url
+                                label: Instagram
+                            youtube:
+                                type: url
+                                label: YouTube
+                            vimeo:
+                                type: url
+                                label: Vimeo
+                            linkedin:
+                                type: url
+                                label: LinkedIn
+                            info:
+                                type: headline
+                                label: Other Information
+                            directions:
+                                type: textarea
+                                label: Directions
+                                buttons:
+                                  - bold
+                                  - italic
+                                  - link
+                            hours:
+                                type: textarea
+                                label: Opening Hours
+                                buttons:
+                                  - bold
+                                  - italic
+                                  - link
+    sitemenu:
+        label: Site Menu
+        icon: cog
+        columns:
+            menusite:
+                sections:
+                    sectionone:
+                        type: fields
+                        fields:
+                            mainmenu:
+                                type: pages
+                                subpages: false
+
+                   
+

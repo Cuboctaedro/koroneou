@@ -1,0 +1,182 @@
+Title: Test Exhibition
+
+----
+
+Coverimage:
+
+- 001-1856x930-crop-1.jpg
+
+----
+
+Startdate: 2020-12-04
+
+----
+
+Enddate: 2021-06-04
+
+----
+
+Artists:
+
+- artists/gregory-crewdson
+- artists/lina-bertucci
+- artists/gerasimos-floratos
+
+----
+
+Otherartists: 
+
+----
+
+Views: 
+
+----
+
+Artworks: 
+
+----
+
+Pressrelease:
+
+Eleni Koroneou Gallery is pleased to present the group exhibition titled “*5 Artists*” with paintings by Liam Everett, Alex Hubbard, Gerasimos Floratos, Helmut Middendorf and Panos Papadopoulos.
+
+**Liam Everett** was born in 1973 in Rochester (NY); he currently lives and works in Paris. His painting practice revolves around a series of questions concerning systems of support, threshold points, integration and transparency. Everett focuses on the two-dimensionality of the painting, which has the potential to function as a filter, in which light, air and other various phenomena are allowed to come forth. His paintings undergo an intense process of additive and subtractive applications. They are also exposed directly to the sun, wind, salt and alcohol in an effort to disturb and destabilize their structural integrity.
+
+**Alex Hubbard** was born in 1975 in Oregon; he currently lives and works in LA. In the current show he is presenting two paintings from different periods. Mostly his works are created through the enlargement of ink renderings, its transferal to linen panels, and the application of poured and painted urethane and fiberglass; an operation which alternates the works orientation from the floor to an upright position. The use of vibrant colors and curved lines is characteristic in his works, composing painting-fields with irregular shapes that emphasize the density of the color that shifts on the canvas.
+
+**Gerasimos Floratos** was in 1986 in New York, where he lives and works. Being a self-taught, Floratos has created his own painterly world and aesthetics incorporating various elements derived from his immediate surroundings and encounters of life in the big city. The artist is using curved lines in heavy colored oil paint and bold brushstrokes to depict his autobiographical characters that emerge in his works. Uncanny cartoons and animal-like creatures in irregular forms, resembling mostly rabbits and enlarged bunnies reside on his canvases and are perceived to be the artist’s alter-ego.
+
+**Helmut Middendorf** was born in 1953 in Dinklage, Germany; he lives and works in Berlin and Athens. In the current show he will present an abstract painting from 2003. The work consists of multiple color layers and abstract structures. Middendorf experiments with different painting processes, he pours the color on the canvas, uses paint rolles and over-all structures, he projects slides, works with overlapping lines and stains and reacts to random results. In many paintings of that period someone could recognize comic figures and other accidental images that are not always recognizable because of their abstractive variations.
+
+**Panos Papadopoulos** was born in 1975 in Athens, where he lives and works. His work is a mixture of conceptual, minimal, abstract and expressionist art. Papadopoulos creates canvases and works on paper, portraying snapshots of his everyday life, his studio and his surroundings. The result is a series of interiors and urban environments, full of irony, humor and hidden meanings. He provides an interesting counterpoint in his work by creating worlds bordering the real and the imagined, inspired from everyday life while his paintings function psychotherapeutically as a reflection on the personal experiences of the artist.
+
+----
+
+Videoembed: <iframe width="560" height="315" src="https://www.youtube.com/embed/1a33738jm_s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+----
+
+Viewsgallery:
+
+- 
+  image:
+    - te-iv001.jpg
+  caption: Caption 1
+- 
+  image:
+    - te-iv002.jpg
+  caption: dfj dfjdghjdghk
+- 
+  image:
+    - te-iv003.jpg
+  caption: xfgmj,detustu dfjd
+- 
+  image:
+    - 001-1856x930-crop-1.jpg
+  caption: ""
+- 
+  image:
+    - te-iv007.jpg
+  caption: ""
+
+----
+
+Worksgallery:
+
+- 
+  image:
+    - te-iv005.jpg
+  title: work title
+  artist: Name Artist
+  format: qert tyi tyi
+  year: "2017"
+  price: "8000"
+  workid: ""
+  showmail: 'true'
+- 
+  image:
+    - 001-1856x930-crop-1.jpg
+  title: Work title
+  artist: Artist Name
+  format: work format info
+  year: "2021"
+  price: "3000"
+  workid: some-unique-id
+  showmail: 'true'
+- 
+  image:
+    - te-iv006.jpg
+  title: ""
+  artist: ""
+  format: ""
+  year: ""
+  price: ""
+  workid: ""
+  showmail: 'false'
+- 
+  image:
+    - te-iv003.jpg
+  title: ""
+  artist: ""
+  format: ""
+  year: ""
+  price: ""
+  workid: ""
+  showmail: 'false'
+
+----
+
+Contentblocks:
+
+- 
+  text: Heading Block
+  _key: heading
+  _uid: heading_1599912809850_104
+- 
+  text: >
+    Text Block. Lorem ipsum dolor sit amet,
+    nam no equidem nostrum, pri at vitae
+    tibique assueverit. At gloriatur
+    definitiones vim, pri nibh melius
+    adolescens ei. Meliore alienum expetenda
+    his ad, alia choro has id, diam
+    erroribus vim in. Ex cum harum
+    persecuti, his te senserit ullamcorper.
+    Te est amet ignota, ne melius verear
+    utamur pro.
+  _key: bodytext
+  _uid: bodytext_1599912821523_104
+- 
+  image:
+    - 001-1856x930-crop-1.jpg
+  caption: Image Caption
+  askforinfo: 'true'
+  worktitle: Title for Inquire
+  _key: image
+  _uid: image_1599912853858_104
+- 
+  embedcode: '<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/265045525?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>'
+  _key: video
+  _uid: video_1599912875408_104
+- 
+  text: >
+    Est ei omnis perpetua accommodare. Quis
+    denique nec eu, pro diam timeam ne.
+    Movet exerci bonorum sit no, te dicam
+    ignota postulant eum. Qui et assum
+    epicuri facilisis, et commodo
+    intellegebat has.
+  _key: quote
+  _uid: quote_1599913062338_104
+
+----
+
+Gallery: 
+
+----
+
+Gallery-artists: 
+
+----
+
+Other-artists: 

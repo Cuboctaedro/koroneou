@@ -1,0 +1,70 @@
+Title: Building Living Leaving (Brunnenstr.)
+
+----
+
+Works:
+
+- 
+  image:
+    - brunnenstr-01.jpg
+  caption: >
+    Building Living Leaving (Brunnenstr.),
+    1999-1996, Lambda print, 120 x 120 cm,
+    edition 3 + 1AP
+  inquire: 'false'
+- 
+  image:
+    - brunnenstr-02.jpg
+  caption: >
+    Building Living Leaving (Brunnenstr.),
+    1999-1996, Lambda print, 120 x 120 cm,
+    edition 3 + 1AP
+  inquire: 'false'
+- 
+  image:
+    - brunnenstr-03.jpg
+  caption: >
+    Building Living Leaving (Brunnenstr.),
+    1999-1996, Lambda print, 120 x 120 cm,
+    edition 3 + 1AP
+  inquire: 'false'
+- 
+  image:
+    - brunnenstr-04.jpg
+  caption: >
+    Building Living Leaving (Brunnenstr.),
+    1999-1996, Lambda print, 120 x 120 cm,
+    edition 3 + 1AP
+  inquire: 'false'
+- 
+  image:
+    - brunnenstr-05.jpg
+  caption: >
+    Building Living Leaving (Brunnenstr.),
+    1999-1996, Lambda print, 120 x 120 cm,
+    edition 3 + 1AP
+  inquire: 'false'
+- 
+  image:
+    - brunnenstr-06.jpg
+  caption: >
+    Building Living Leaving (Brunnenstr.),
+    1999-1996, Lambda print, 120 x 120 cm,
+    edition 3 + 1AP
+  inquire: 'false'
+- 
+  image:
+    - brunnenstr-07.jpg
+  caption: >
+    Building Living Leaving (Brunnenstr.),
+    1999-1996, Lambda print, 120 x 120 cm,
+    edition 3 + 1AP
+  inquire: 'false'
+- 
+  image:
+    - brunnenstr-08.jpg
+  caption: >
+    Building Living Leaving (Brunnenstr.),
+    1999-1996, Lambda print, 120 x 120 cm,
+    edition 3 + 1AP
+  inquire: 'false'

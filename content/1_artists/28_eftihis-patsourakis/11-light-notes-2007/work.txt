@@ -1,0 +1,52 @@
+Title: Light notes
+
+----
+
+Works:
+
+- 
+  image:
+    - light-notes-01.jpg
+  caption: >
+    Light notes, 2006, Post-it notes on
+    window, dimensions variable
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - light-notes-02.jpg
+  caption: >
+    Light notes, 2006, Post-it notes on
+    window, dimensions variable
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - light-notes-03.jpg
+  caption: >
+    Light notes, 2006, Post-it notes on
+    window, dimensions variable
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - light-notes-04.jpg
+  caption: >
+    Light notes, 2006, Post-it notes on
+    window, dimensions variable
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - light-notes-05.jpg
+  caption: >
+    Light notes, 2006, Post-it notes on
+    window, dimensions variable
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - light-notes-06.jpg
+  caption: ""
+  inquire: 'false'
+  worktitle: ""

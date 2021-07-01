@@ -1,0 +1,49 @@
+title: Artist
+
+tabs:
+    bio:
+        label: Biography
+        icon: text
+        fields:
+            type:
+                label: Artist Relation
+                type: radio
+                default: represented
+                options:
+                    exhibited: Exhibited
+                    represented: Represented
+            coverimage:
+                type: files
+                label: Cover Image
+                multiple: false
+            biography:
+                extends: fields/textarea
+                label: Biography
+    artworks:
+        label: Artworks
+        icon: image
+        fields:
+            works:
+                extends: fields/artworks
+    projectfiles:
+        label: Projects
+        icon: book
+        sections:
+            projects:
+                type: pages
+                headline: Projects
+                layout: cards
+                templates: work
+    pagefiles:
+        label: Page Files
+        icon: folder
+        sections:
+            pagefiles:
+                type: files
+                headline: Page Files
+                layout: list
+
+
+
+
+

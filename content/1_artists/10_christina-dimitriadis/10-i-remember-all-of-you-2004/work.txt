@@ -1,0 +1,13 @@
+Title: I Remember all of You
+
+----
+
+Works:
+
+- 
+  image:
+    - i-remember-all-of-you.jpg
+  caption: >
+    I Remember all of You, 2004, Lambda
+    print, 60 x 60 cm, edition of 3 + 1AP
+  inquire: 'false'

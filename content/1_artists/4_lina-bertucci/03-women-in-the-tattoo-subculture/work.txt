@@ -1,0 +1,80 @@
+Title: Women in the Tattoo Subculture
+
+----
+
+Works:
+
+- 
+  image:
+    - lb-tattoo-01.jpg
+  caption: >
+    Ashley, 26, Piercer/ English Teacher in
+    Thailand, 2007, ultrachrome archival
+    photograph, 55,9 x 44,5 cm, edition of 5
+    + 2 AP
+  inquire: 'false'
+- 
+  image:
+    - lb-tattoo-02.jpg
+  caption: >
+    Casey, 19, Art Student, 2007,
+    ultrachrome archival photograph, 55,9 x
+    44,5 cm, edition of 5 + 2 AP
+  inquire: 'false'
+- 
+  image:
+    - lb-tattoo-03.jpg
+  caption: >
+    Corrina, 21, Hairstylist, 2007,
+    ultrachrome archival photograph, 91,4 x
+    73,7 cm, edition of 5 + 2 AP
+  inquire: 'false'
+- 
+  image:
+    - lb-tattoo-04.jpg
+  caption: >
+    Jamie, 29, Stay at Home Mother, 2007,
+    ultrachrome archival photograph 91,4 x
+    73,7 cm edition of 5 + 2 AP
+  inquire: 'false'
+- 
+  image:
+    - lb-tattoo-05.jpg
+  caption: >
+    Jennifer Lee, 24, Make-Up Artist/
+    Fashion Designer, 2007, ultrachrome
+    archival photograph, 91,4 x 73,7 cm,
+    edition of 5 + 2 AP
+  inquire: 'false'
+- 
+  image:
+    - lb-tattoo-06.jpg
+  caption: >
+    Natasha, 22, Graphic Designer, 2007,
+    ultrachrome archival photograph, 55,9 x
+    44,5 cm, edition of 5 + 2 AP
+  inquire: 'false'
+- 
+  image:
+    - lb-tattoo-07.jpg
+  caption: >
+    Sara, 22, Graphic Designer, 2007,
+    ultrachrome archival photograph, 55,9 x
+    44,5 cm, edition of 5 + 2 AP
+  inquire: 'false'
+- 
+  image:
+    - lb-tattoo-08.jpg
+  caption: >
+    Shantelle, 22, Artist, 2007, ultrachrome
+    archival photograph, 91,4 x 73,7 cm,
+    edition of 5 + 2 AP
+  inquire: 'false'
+- 
+  image:
+    - lb-tattoo-09.jpg
+  caption: >
+    Su, 27, Tattoo Artist, 2007, ultrachrome
+    archival photograph, 55,9 x 44,5 cm,
+    edition of 5 + 2 AP
+  inquire: 'false'

@@ -1,0 +1,102 @@
+Title: Making Waves
+
+----
+
+Coverimage: 
+
+----
+
+Startdate: 2019-12-13
+
+----
+
+Enddate: 2020-02-29
+
+----
+
+Artists:
+
+- artists/tamina-amadyar
+
+----
+
+Otherartists: 
+
+----
+
+Views:
+
+- 
+  image:
+    - ta_001.jpg
+  caption: ""
+- 
+  image:
+    - ta_002.jpg
+  caption: ""
+- 
+  image:
+    - ta_003.jpg
+  caption: ""
+- 
+  image:
+    - ta_005.jpg
+  caption: ""
+- 
+  image:
+    - ta_006.jpg
+  caption: ""
+- 
+  image:
+    - ta_007.jpg
+  caption: ""
+- 
+  image:
+    - ta_008.jpg
+  caption: ""
+- 
+  image:
+    - ta_009.jpg
+  caption: ""
+
+----
+
+Artworks: 
+
+----
+
+Pressrelease:
+
+**Opening reception: Friday December 13, 7.30–9.30 p.m.**
+
+Eleni Koroneou Gallery is pleased to present the first solo show of Berlin based Tamina Amadyar, titled *Making Waves*.
+
+Amadyar’s paintings are dominated by color and shape. The title of the show Making Waves can be interpreted in different ways: it may imply that something is very impressive and forward thinking, or that something causes trouble and disturbs the peace. Amadyar combines in her paintings one of the oldest artistic techniques and aspects of Color Field Painting. Where one color borders, touches or overlaps the other, the individual forms become visible. The intensity of the colors is obtained by pigment that the artist mixes with rabbit-skin glue. The intersections of the painted fields create new colors and shapes, resulting in compositions that simultaneously radiate harmony and dissonance, balance and instability, calm and tension.
+
+The titles of Amadyar's works refer to different places and act as a last layer of color. For example, the title of the painting "Agora" refers to something she saw or heard during her last visit in Athens and indicates a specific feeling that comes with the sound of the word.
+
+Tamina Amadyar was born 1989 in Kabul and studied at the Kunstakademie Düsseldorf, by professor and artist Tal R. She lives and works in Berlin. Selected solo exhibitions include: The Big Dipper, Kewenig, Palma de Mallorca, Spain (2019); It’s a match, Oldenburger Kunstverein, Oldenburger (2019); BIG BLUE SKY, Kunstverein Reutlingen, Reutlingen (2018); 10,000 hours, Galerie Guido W. Baudach, Berlin (2017); She has also taken part in group exhibitions, such as: Adrian, George, Peter, Sofia, Tamina., P420 Art Gallery, Bologna (2019); last dance, Autocenter at the KINDL, Berlin (2018); Kunst als Spiegel der Gesellschaft – Werke aus der Sammlung der DekaBank, Schloss Neuhardenberg, Neuhardenberg, Germany (2017); Memories of an elephant, Kunsthaus Essen, Essen (2017); Monday is a day between Sunday and Tuesday, Tanya Leighton, Berlin (2017); You’re just too good to be true, Contemporary Fine Arts, Berlin (2015). She has received the followig grants: Hooper Projetcs stipend (2015), Helmut E. Kreutzer Stiftung stipend (2013-2014), the Rölfs Partner stipend (2013) and a stipend of Heinrich-Böll Stiftung e.V. (2009-2015). In 2016 she was included in the Forbes list „30 under 30“.
+
+----
+
+Videoembed: 
+
+----
+
+Line-a: 
+
+----
+
+Line-b: 
+
+----
+
+Artistscheck: tamina-amadyar
+
+----
+
+Artislslist: 
+
+----
+
+Line-c: 

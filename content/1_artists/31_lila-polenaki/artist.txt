@@ -1,0 +1,211 @@
+Title: Lila Polenaki
+
+----
+
+Type: exhibited
+
+----
+
+Coverimage: 
+
+----
+
+Biography:
+
+Born 1964, in Athens
+Lives and works in Athens
+
+### Education
+
+1982-1985 Law studies at the University of Athens
+1985-1986 School of Fine Arts, Thessaloniki
+1986-1987 School of Fine Arts, Athens
+1987-1993 School of Fine Arts UDK, Berlin
+1994 Master of Fine Arts, with Prof. Berndt Koberling, UDK, Berlin
+1994-1996 Scholarship, NaFoG postgraduate grant, UDK, Berlin
+
+### Solo Exhibitions 
+
+#### 2012
+Galerie Françoise Heitsch, Munich
+#### 2011
+"Eyewear", Eleni Koroneou Gallery, Athens
+#### 2008
+Francoise Heitsch Gallery, Munich 
+#### 2006
+Eleni Koroneou Gallery, Athens
+#### 2004 
+Eleni Koroneou Gallery, Athens
+#### 2002 
+Eleni Koroneou Gallery, Athens
+#### 1999 
+Eleni Koroneou Gallery, Athens
+#### 1997 
+Eleni Koroneou Gallery, Athens
+
+### Group Exhibitions (selected)
+
+#### 2015
+"Pop up #1 Έκθεση Σύγχρονης Τέχνης από τη συλλογή Φ. Κυριακοπούλου", Fougaro, Nafplion, Greece
+#### 2013
+"ART IN EUROPE SINCE 1945: BEYOND BOUNDARIES", Macedonian Museum of Contemporary Art, Thessaloniki, Greece
+"Group Show", Eleni Koroneou Gallery, Athens
+#### 2012
+"3 Artists: Eirene Efstathiou, Eftihis Patsourakis, Lila Polenaki", Eleni Koroneou Gallery, Athens
+#### 2011
+"Acrobat Reading", curated by Alexios Papazacharias, ReMap 3, Athens
+"Pleasure", About, Athens
+#### 2009
+"Go Sinnlich", Eleni Koroneou Gallery, Athens
+#### 2007
+"Places", The Collection of the Macedonian Museum of Contemporary Art, Museum Benaki, Athens
+#### 2006
+"Flowers in Contemporary Art", Museum Benaki, Athens
+Winter Gallery, Wiesbaden
+#### 2004 
+"Berliner Zimmer", Action Field Kodra, Thessaloniki
+"Any Place Any", Hellenic Culture Organisation S.A., Museum of Contemporary Art Thessaloniki
+#### 2003 
+Artexis, Art Brussels 2003
+#### 1999 
+Loops Gallery, Berlin
+#### 1998 
+Cornelia Priess Gallery, Hannover 
+Artforum, Berlin
+#### 1997 
+"Picturale", est- Centre Rhenan d’art contemporain, CRAC ALSACE, Strassburg
+Artforum Berlin
+#### 1996 
+"Lila Polenaki, H.Middendorf, M.Kippenberger, M.Schmidt, M.Papadimitriou C.Dimitriadis", Eleni Koroneou Gallery, Athens
+#### 1995 
+"Lila Polenaki – Christina Dimitriadis", Eleni Koroneou Gallery, Athens
+#### 1994 
+"Lila Polenaki - Bernd Koberling", W.Erber, Sammlung Stober , Κutscherhaus Berlin
+#### 1993 
+"Lila Polenaki- Μartin Assig", Eleni Koroneou Gallery, Athens
+
+----
+
+Works:
+
+- 
+  image:
+    - image-01.jpg
+  caption: >
+    Memoreyes, 2010,acrylic, paper and
+    textile on canvas, 160 x 140 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - image-02.jpg
+  caption: >
+    Aware, 2010, acrylic and paper on
+    canvas, 160 x 140-cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - image-03.jpg
+  caption: >
+    Allure, 2010, acrylic on canvas, 160 x
+    140 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - image-04.jpg
+  caption: >
+    Signature, 2010, acrylic and paper on
+    canvas, 160 x 140-cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - image-05.jpg
+  caption: >
+    Amazoned, 2010, acrylic on canvas, 160 x
+    140 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - image-06.jpg
+  caption: >
+    Apart, 2010, acrylic and paper on
+    canvas, 160 x 140-cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - image-07.jpg
+  caption: >
+    Eyewear, 2010, acrylic on canvas, 160 x
+    140 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - image-08.jpg
+  caption: >
+    Collectors items, 2010, acrylic, paper
+    and textile on canvas, 160 x 140 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - image-09.jpg
+  caption: >
+    Let things come to you, 2010, acrylic,
+    paper and textile on canvas, 160 x 140
+    cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - image-10.jpg
+  caption: >
+    Lilac, 2009, mixed media on canvas, 160
+    x 140-cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - image-11.jpg
+  caption: >
+    Pray, 2009, acrylic, paper and textile
+    on canvas, 160 x 140 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - image-12.jpg
+  caption: >
+    Memory patches, 2009, acrylic, paper and
+    textile on canvas, 160 x 140 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - image-13.jpg
+  caption: >
+    Inner landscape, 2007, acrylic, paper
+    and textile on canvas, 210 x 190 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - image-14.jpg
+  caption: >
+    Limbo, 2007, acrylic, paper and textile
+    on canvas, 210 x 190 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - image-15.jpg
+  caption: >
+    Bodyscape, 2005, acrylic and textile on
+    canvas, 80 x 60 cm
+  inquire: 'false'
+  worktitle: ""

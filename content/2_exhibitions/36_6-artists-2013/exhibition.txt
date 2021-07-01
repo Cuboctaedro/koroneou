@@ -1,0 +1,46 @@
+﻿Title: 6 Artists
+
+----
+
+Status: past
+
+----
+
+Showartists: show
+
+----
+
+Startdate: 24-05-2013
+
+----
+
+Enddate: 13-07-2013
+
+----
+
+Artists: artists/alex-hubbard 
+artists/martin-kippenberger
+artists/michel-majerus
+artists/helmut-middendorf 
+artists/christopher-wool
+
+----
+
+Otherartists: *Sergej Jensen*
+
+----
+
+Pressrelease: Eleni Koroneou Gallery is pleased to present 6 Artists, a group exhibition with works from Alex Hubbard, Sergei Jensen, Martin Kippenberger, Michel Majerus, Helmut Middendorf and Christopher Wool. The main focus will be painting. It will also present a sculptural work and posters from Martin Kippenberger and a work on paper from Christopher Wool.
+
+
+Alex Hubbard combines in his work performance, painting and video in order to explore transformations between states of order and chaos. Employing acrylic, resin and fiberglass the works feature clashing colour-fields, in some parts sloppy with pooled paint, in others almost translucent. The surfaces of the paintings aspire to the character of prints, which might be the non-hierarchical pin board for any object or image. His works in a reductive format emphasize elements of painting and erasure, gesture and removal, depth and flatness.
+
+Sergej Jensen’s work draws on a wide range of materials and formal references. Primarily known for his textile works, his lyrical compositions incorporate a variety of fabrics, from burlap and linen to silk and wool. Working within the idiom of minimalist painting, Jensen takes its material support – the canvas – and sews, bleaches, stretches or stains the cloth to create works that waver between abstraction and representation.
+
+With Dadaistic humor, irony and sarcasm the artistic work of Martin Kippenberger refers to the contradictions of our society, including social and cultural systems. In a similar way as Picabia and Sigmar Polke he choses subjects related to the banalities of life, politics, media and advertising. The programmatic “lack of style” in his work depends on the different thematic framework, which he introduced in his art. For him there was not a subject, about which he could not make art. At the same time for Kippenberger art was meaningless without a thematic framework.
+
+Michel Majerus’s paintings refer to images that we have seen before. He appropriates history and reproduces its visual results. The artist himself in an interview claims that in his work he is occupied with the speed of perception of present issues, which he considers to be more important than the classical ones, and he uses static images, figures of speech and stylistic elements. His motivation is the formation of a new artificial reality that exists in many different colors. His work also displayed an appreciation of the history of painting in the twentieth century, with references to work by artists such as Basqiat, Willem de Kooning, Cy Twombly, Gerhard Richter, Frank Stella and James Rosenquist, as well as the master of Pop art, Andy Warhol.
+
+In his resent paintings Helmut Middendorf show again his great versatility in creating his works. He continues his exploration of abstract art. The colors show all shades of grey (especially payne´s grey), black, white, pink, yellow and fluorescent blue. In some of the works the background consists of an overpainted collage of newspapers, shimmering through layers of white paint. Paint is also poured on the canvas and the whole compositions are made of hundreds of splotches and stains. The result is raw, graphic and direct.
+
+The basic element of Christopher Wool’s work is the process of painting itself which he explores by reducing form and color, then experimenting with different painting and reproduction techniques within these parameters. The processes of painting, the physical properties of paint and techniques of reproduction underpin Wool’s practice. In previous works he has used a plethora of media comprising aluminium, silkscreen, varnish, photography, paint rollers and stencils with industrial procedures and techniques made available by mass production. Wool used these procedures in combination with painting to play with the ideas and techniques of reproduction.

@@ -1,0 +1,258 @@
+Title: Tom Ellis
+
+----
+
+Type: exhibited
+
+----
+
+Biography:
+
+Born 1973, in London, UK 
+Lives and works in London, UK
+
+### Education
+
+1992-95 Wimbledon School of Art
+
+### Solo Exhibitions (selected)
+
+#### 2016
+"The Middle", The Wallace Collection, London
+#### 2013
+"Works Like People", Eleni Koroneou Gallery, Athens
+#### 2012 
+"Tom Ellis", MOT International, London 
+"Tom Ellis", Bloomberg Space, London
+#### 2011 
+"Tom Ellis", MOT International, London
+#### 2010 
+"The Vacuum", Kunsthalle Winterthur, Winterthur, Switzerland
+#### 2009   
+"Get Me a Show In China", Space, London
+#### 2008
+"Wszystko/ Everything", Czarna Gallery, Warsaw 
+"Some Things I Do For Money, Some Things I do For Free", Projector, Rotterdam
+#### 2007
+"Der Landshafter", K3, Zurich 
+"Klever Strasse", MOT International, London
+" Sweet F.A.", Freight and Volume, New York
+#### 2006
+"Virtual Fireworks", The Pirate Castle, London
+#### 2005
+"Photographies", Kontainer, Los Angeles 
+"Inversion", Platform, London
+#### 2004
+ "Unsupported Images", T1+2 Artspace, London
+#### 2003
+"Dead Hotel", Percy Miller Gallery, London
+
+### Group Exhibitions (selected)
+
+#### 2013
+"Grand Magasin - A project with Nat Breitenstein", French Riviera, London
+"RIFF", Baltic 39, Newcastle
+"Group Show", Eleni Koroneou Gallery, Athens
+"Tierstücke - der Sammlung (Animal Parts) from the SOR Rusche Collection Oelde/Berlin", Museum Abtei Liesborn, Wadersloh, Germany
+#### 2012
+ "Eros and Thanatos", Baumwollspinnerei, Leipzig
+#### 2011
+"Multiple Takes", 68 Square Metres Art Space, Copenhagen 
+"Greg Wilken Torbjorn Vejvi Lynton Talbot Cauleen Smith SEACA (Southeast Asian Community Alliance) Mark Roeder Andrea Robbins and Max Becher D'Ette Nogle Dylan Marcus Brian Mann Tory Lowitz Fred Lonidier Amy Laughlin Lisa Lapinski William Jones Daniel Ingroff Katie Herzog Kevin Hanley Aaron GM Erik Frydenborg Rachel Foullon Travis Farmen Tom Ellis Lucy Dod Michele Di Menna Jesse Benson Will Benedict Merwin Belin", Las Cienegas Projects, Culver City, LA, designed by Jesse Benson and Brian Mann.
+#### 2010
+ "Newspeak: British Art Now", The Saatchi Gallery, London.
+#### 2009 
+"We Came Here To Get Laid, Not to Critique Dutch Culture", with Richard Parry and Clunie Reid, Wilfried Lentz, Rotterdam
+#### 2007
+ "Aggression", Kunsthalle Winterthur, Winterthur
+" Propaganda Machine", (Local Operations), Serpentine Gallery, London
+ "Intelligent Muscle", The Café Gallery, London
+#### 2006
+ "Mixed Pickles", K3 Project Space, Zurich 
+"Mining", WestGermany, Berlin
+#### 2005
+ "Virtual Fireworks", Port Eliot Literary Festival, Cornwall  
+"Intelligent Design", Cumberland Wharf Gardens, London LORE, Glasgow Project Room, Glasgow 
+"As If By Proxy", Redux, London
+#### 2004
+ "Minimal As Maximal", Kontainer, Los Angeles 
+"Totem", MOT, London 
+"Freedom Fries", Cumberland Wharf Gardens, London 
+"Sculpture Garden", Nr. Old Street Roundabout (Flaca), London 
+"Dead Hotel", Kontainer, Los Angeles
+#### 2003
+"Side Track", Percy Miller Gallery, London 
+"East Wing Collection No.6 - Urban Networks", The Courtauld Institute, London 
+"Ergo Thus", Martinez Gallery, New York
+"GEORG BASELITZ OR MIKE KELLEY", Jeffrey Charles Gallery, London
+#### 2002
+ "Chockerfuckingblocked", Jeffrey Charles Gallery, London 
+"In Your Time", Percy Miller Gallery, London
+#### 2001
+ "Mail Art", Institute for International Visual Arts (inIVA), London
+
+### Bibliography
+
+####   2012 
+Doubal, R. Tom Elis at Bloomberg, Time Out, April  
+Patricia Ellis, (link: http://www.bloombergspace.com/archive/tomellis_essay.html text: Painting, correctly), Bloomberg essay,
+#### 2011 
+Sue Hubbard, London Calling, Artillery Magazine, January - February
+Martin Coomer, Tom Ellis, Time Out, January  
+#### 2008
+ London Focus, Flash Art, Vol. XLI, p. 91, October  
+Von Almuth Spiegler, Die osterreichische Kunst in der Krise, Die Presse, April  
+Oliver Kielmayer, ‘Aggression’ catalogue, Kunstalle Winterthur, p. 35-40,
+#### 2007 
+Lucia A. Cavegn, Agression in der Kunsthalle Winterthur, Kunstbulletin, December  
+Lucia A. Cavegn, Zwischen Rebellion und Obsession, Regioartline, November  
+Von Caspar Scharer, Wotsch Puff, Man, Zuritipp, October  
+Rebecca Geldard, Tom Ellis, Klever Strasse Saatchi Gallery Magazine, July  
+Conrad Ventur, Flop Art, Useless, No. 5,  Richard Dyer, News, Contemporary Magazine, no 76
+#### 2003 
+Roy Exley, Tom Ellis: Dead Hotel, a-n Magazine
+Sotiris Kyriacou, Tom Ellis: Dead Hotel, Contemporary Magazine
+Pamela Self, Dead Hotel, ARQ (Architectural Research Quarterly), vol 7 no 2  
+Kit Hammonds, Dead Hotel, Tema Celeste, Nov/Dec  
+Jen Ogilvie, Tom Ellis, Time Out London, Sep 24 -1 Oct
+ Ian Stewart, Tom Ellis, The Guardian Guide, Aug 30-Sep 5  
+Len Horsey, Georg Baselitz or Mike Kelley, a-n Magazine,
+#### 2002
+ Morgan Falconer, In Your Time, What’s On, August
+
+----
+
+Works:
+
+- 
+  image:
+    - tom-ellis-01.jpg
+  caption: >
+    Unworkability starts at 5, 2011, oil on
+    board, 60,5 x 46 cm
+  inquire: 'false'
+- 
+  image:
+    - tom-ellis-02.jpg
+  caption: >
+    Unworkability starts at 6, 2011, oil on
+    board, 50,5 x 40,7 cm
+  inquire: 'false'
+- 
+  image:
+    - tom-ellis-03.jpg
+  caption: >
+    Elton Juan. 2011, oil on canvas, 76 x
+    50,5 cm
+  inquire: 'false'
+- 
+  image:
+    - tom-ellis-04.jpg
+  caption: >
+    Feeler Thinker Burner No.1, 2011, oil on
+    board, 31 x 24 cm
+  inquire: 'false'
+- 
+  image:
+    - tom-ellis-05.jpg
+  caption: >
+    Feeler Thinker Burner No.2, 2011, oil on
+    board, 29,2 x 21 cm
+  inquire: 'false'
+- 
+  image:
+    - tom-ellis-06.jpg
+  caption: >
+    Feeler Thinker Burner No.3, 2011, oil on
+    board, 32,3 x 21,9 cm
+  inquire: 'false'
+- 
+  image:
+    - tom-ellis-07.jpg
+  caption: >
+    Laughing Man No.1, 2012, oil and marker
+    on board, 24,1 x 17,1 cm
+  inquire: 'false'
+- 
+  image:
+    - tom-ellis-08.jpg
+  caption: >
+    Laughing Man No.2, 2012, oil and marken
+    on board, 14 x 10 cm
+  inquire: 'false'
+- 
+  image:
+    - tom-ellis-09.jpg
+  caption: >
+    Sebastian de Morra, 2011, oil on board,
+    60,5 x 46 cm
+  inquire: 'false'
+- 
+  image:
+    - tom-ellis-10.jpg
+  caption: >
+    Calabacillas, 2011, oil on board, 60,5 x
+    46 cm
+  inquire: 'false'
+- 
+  image:
+    - tom-ellis-11.jpg
+  caption: >
+    El Primo, 2011, oil on board, 60,5 x 46
+    cm
+  inquire: 'false'
+- 
+  image:
+    - tom-ellis-12.jpg
+  caption: >
+    Rachtwurst 10 (The Smokers), 2009, oil
+    and marker pen on canvas, 40,5 x 30,5 cm
+  inquire: 'false'
+- 
+  image:
+    - tom-ellis-13.jpg
+  caption: >
+    Rachtwurst 11 (Father and Son), 2009,
+    oil and marker pen on canvas, 40,5 x
+    30,5 cm
+  inquire: 'false'
+- 
+  image:
+    - tom-ellis-14.jpg
+  caption: >
+    The Lazy Puppies No.1, 2012, oil and
+    marker on board, 14,1 x 10 cm
+  inquire: 'false'
+- 
+  image:
+    - tom-ellis-15.jpg
+  caption: >
+    The Lazy Puppies No.2, 2012, oil on
+    canvas, 50,6 x 40,5 cm
+  inquire: 'false'
+- 
+  image:
+    - tom-ellis-16.jpg
+  caption: >
+    Dark Orphan, 2010, oil on board, 24 x
+    16,9 cm
+  inquire: 'false'
+- 
+  image:
+    - tom-ellis-17.jpg
+  caption: >
+    Rearticulated Head, 2011, oil on board,
+    24,1 x 17,1 cm
+  inquire: 'false'
+- 
+  image:
+    - tom-ellis-18.jpg
+  caption: "Study on a woman's head, 2013, oil and marker on board, 16,6 x 10 cm"
+  inquire: 'false'
+- 
+  image:
+    - tom-ellis-19.jpg
+  caption: >
+    Flower Arrangement No. 3, 2013, oil and
+    marker on board, 32,1 x 24,3 cm
+  inquire: 'false'

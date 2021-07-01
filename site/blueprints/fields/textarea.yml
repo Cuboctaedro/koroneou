@@ -1,0 +1,16 @@
+type: markdown
+label: Text
+size: medium
+buttons:
+  - headlines
+      - h2
+      - h3
+      - h4
+  - bold
+  - italic
+  - ul
+  - ol
+  - link
+  - email
+  - blockquote
+  - horizontal-rule

@@ -1,0 +1,54 @@
+Title: Headless
+
+----
+
+Works:
+
+- 
+  image:
+    - headless-01.jpg
+  caption: >
+    Headless 1, 2012, Oil on wood, 26.8 x
+    34.8 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - headless-02.jpg
+  caption: >
+    Headless 2, 2012, Oil on wood, 33.6 x 35
+    cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - headless-03.jpg
+  caption: >
+    Headless 3, 2012, Oil on wood, 40.1 x
+    40.1 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - headless-04.jpg
+  caption: >
+    Headless 4, 2013, Oil on wood, 24.1 x
+    29.5 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - headless-05.jpg
+  caption: >
+    Headless 5, 2013, Oil on wood, 41 x 40.2
+    cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - headless-06.jpg
+  caption: >
+    Headless 6, 2013, Oil on wood, 24.7 x 31
+    cm
+  inquire: 'false'
+  worktitle: ""

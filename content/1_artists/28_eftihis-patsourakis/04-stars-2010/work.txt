@@ -1,0 +1,30 @@
+Title: Stars
+
+----
+
+Works:
+
+- 
+  image:
+    - stars-01.jpg
+  caption: >
+    Stars 1, 2009, Acrylic on photograph, 30
+    x 44 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - stars-02.jpg
+  caption: >
+    Stars 2, 2009, Acrylic on photograph, 30
+    x 44 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - stars-03.jpg
+  caption: >
+    Stars 3, 2009, Acrylic on photograph, 30
+    x 44 cm
+  inquire: 'false'
+  worktitle: ""

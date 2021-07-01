@@ -1,0 +1,230 @@
+Title: Yuzheng Cheng
+
+----
+
+Type: exhibited
+
+----
+
+Biography:
+
+Born 1977, in Suzhou, China
+Lives and works in Berlin
+
+### Education
+
+1995-1998 Interior Design at the School of Architecture Nanjing, China
+2000-2001 Moves to Germany. Studies Graphic Arts at the Muthesius-School of Arts and Design, Kiel
+2001-2005 Studies Painting under Prof. KH Hodicke at the University of Arts, Berlin 
+2005 Master scholar under Prof. KH Hodicke at the University of Arts, Berlin. Prize-winner of the Theodorus-Art-Prize 2005, awarded by the president of the University of Arts, Berlin
+
+### Solo Exhibitions
+
+#### 2009
+“Zoo“, Eleni Koroneou Gallery, Athens
+#### 2008
+Kunstverein Karonier, Fechta
+#### 2007
+"As seen on screen, Cheng Yuzheng", Thomas Levy Galerie, Hamburg
+Galerija Contra, Koper
+#### 2006
+"Cheng Yuzheng – Tiefstapeln. Neue Bilder", Galerie artMbassy
+"Liebe Gruesse", Eleni Koroneou Gallery, Athens 
+"Landschaften", Gallery Antje Wachs, Berlin 
+"Theodorus-Hospiz-Preis 2005: Cheng Yuzheng", Theodorus-Hospiz, Berlin 
+#### 2003
+"Cheng, Yuzheng", GFAM-Galerie fur aktuelle Malerei, Berlin
+
+### Group Exhibitions
+
+#### 2011
+DREIZEHN - Junge Künstler aus Berlin, Galerie Filser & Gräf, Munich
+#### 2010
+“Life as a Legend: Marilyn Monroe“, MOCA - Museum of Contemporary Art Jacksonville, Jacksonville, FL
+Group Show , MOCA - Museum of Contemporary Art Jacksonville, Jacksonville, FL
+#### 2009
+“Go Sinnlich“, Eleni Koroneou Gallery, Athens
+“hier & jetzt“, Wewerka Galerie, Berlin
+#### 2008
+“Forgotten Bar Project – ausgebrannt, Galerie Im Regierungsviertel, Forgotten Bar, Berlin (closed)
+“30 gegen 3 000 000. Skulptur und Malerei aus Berlin“, Kulturforum Schloß Holte-Stukenbrock, Schloß Holte-Stukenbrock
+#### 2007
+"Marilyn Monroe: Life of a Legent", Art Center, Sioux City; Museum of Art, Boca Raton; Museum of Art, Huntington & Art Institute, Dayton
+#### 2006
+"The harder you look. Works on Paper", Eleni Koroneou Gallery, Athens
+"Berliner Positionen", Kunst-Kabinett, Benz 
+"Durchgeknallt – UdK Berlin", Fahrradhalle portikussi, Offenbach
+"Marilyn Monroe", Kunsthaus, Hamburg 
+"Salon de Mai", Gallery Thomas Levy, Hamburg
+#### 2005
+"Graduates’ Exhibition", University of Arts, Berlin 
+"Junge Malerei aus Berlin", Gallery Thomas Levy, Hamburg 
+"Touche [1974-2005] Klasse KH Hodicke an der UdK", University of Arts, Berlin 
+Participations in the Art Frankfurt and the Art Cologne trade fairs
+#### 2004 
+"Identitat im digitalen Zeitalter", Federal Printing Works and Kunstlerhaus Bethanien, Berlin 
+#### 2003 
+"Klasse Hodicke", University of Arts, Berlin 
+"Schaustelle 8", Gallery Giesler+Partner, Berlin 
+"Neue Bilder III", GFAM, Berlin 
+#### 2002 
+Kunst-und Kulturverein Artibus, Berlin 
+"Schaustelle 7", Galerie Eva Poll, Berlin
+#### 2001-2006 
+Annual participation in the University of Arts’ visitor’s days, Berlin
+
+### Bibliography
+
+"Cheng, Yuzheng", catalogue edited by Christian Malycha, Berlin 2003.
+Hanna Engelmeier ’Gutes Neues. Drei Kunstler von denen wir in Zukunft noch einiges erwarten durfen’, in "QVEST", No. 16, Berlin 2005.
+"Identitat im digitalen Zeitalter", catalogue edited by the Federal Printing Works, Berlin 2004.
+"Junge Malerei aus Berlin", catalogue edited by the Gallery Thomas Levy, Hamburg 2005.
+"Levy 1st. VIEW: Yuzheng Cheng", catalogue (Art Cologne) edited by the Gallery Thomas Levy, Hamburg 2005.
+Christian Malycha "Das Erscheinen ist ein Entziehen. Cheng Yuzheng | Shan Shui | 2005", Berlin 2005.
+"Neue Bilder III", catalogue edited by the Christian Malycha, Berlin 2003.
+"Subjektive Obsessionen", catalogue (Art Frankfurt) edited by the Gallery Michael Schultz, Berlin 2005.
+"Theodorus-Hospiz-Preis 2005: Cheng Yuzheng", catalogue edited by the University of Arts, with contributions by Christian Malycha and Martin Rennert, Berlin 2006.
+"Touche [1974-2005] Klasse KH Hodicke an der UdK", catalogue edited by the University of Arts, with contributions by Rene Block, Christian Malycha und Jorn Merkert, Berlin 2005.
+
+----
+
+Works:
+
+- 
+  image:
+    - y-cheng-01.jpg
+  caption: >
+    Trouble, 2009, acrylic on aluminium, 30
+    x 30 cm
+  inquire: 'false'
+- 
+  image:
+    - y-cheng-02.jpg
+  caption: >
+    Part-time Cleaner, 2009, oil on
+    aluminum, 30 x 41 cm
+  inquire: 'false'
+- 
+  image:
+    - y-cheng-03.jpg
+  caption: >
+    Dr Frankenstein New Dream, 2008, oil on
+    canvas, 32 x 58 cm
+  inquire: 'false'
+- 
+  image:
+    - y-cheng-04.jpg
+  caption: >
+    Hypnosis, 2008, oil on canvas, 60,5 x
+    80,5 cm
+  inquire: 'false'
+- 
+  image:
+    - y-cheng-05.jpg
+  caption: >
+    Operation, 2008, oil on canvas, 25 x 40
+    cm
+  inquire: 'false'
+- 
+  image:
+    - y-cheng-06.jpg
+  caption: 'Zoo, 2009, acrylic on aluminium,  50 x 50 cm'
+  inquire: 'false'
+- 
+  image:
+    - y-cheng-07.jpg
+  caption: >
+    Zoo, 2009, acrylic on aluminium, 40 x 40
+    cm
+  inquire: 'false'
+- 
+  image:
+    - y-cheng-08.jpg
+  caption: >
+    Zoo, 2009, acrylic on aluminium, 40 x 40
+    cm
+  inquire: 'false'
+- 
+  image:
+    - y-cheng-09.jpg
+  caption: >
+    Zoo, 2009, acrylic on aluminium, 40 x 40
+    cm
+  inquire: 'false'
+- 
+  image:
+    - y-cheng-10.jpg
+  caption: >
+    Zoo, 2009, acrylic on aluminium, 40 x 40
+    cm
+  inquire: 'false'
+- 
+  image:
+    - y-cheng-11.jpg
+  caption: >
+    Zoo, 2009, acrylic on aluminium, 40 x 40
+    cm
+  inquire: 'false'
+- 
+  image:
+    - y-cheng-12.jpg
+  caption: >
+    Zoo, 2009, acrylic on aluminium, 40 x 40
+    cm
+  inquire: 'false'
+- 
+  image:
+    - y-cheng-13.jpg
+  caption: >
+    Zoo, 2009, acrylic on aluminium, 40 x 40
+    cm
+  inquire: 'false'
+- 
+  image:
+    - y-cheng-14.jpg
+  caption: >
+    Zoo, 2009, acrylic on aluminium, 40 x 40
+    cm
+  inquire: 'false'
+- 
+  image:
+    - y-cheng-15.jpg
+  caption: >
+    Zoo, 2009, acrylic on aluminium, 40 x 40
+    cm
+  inquire: 'false'
+- 
+  image:
+    - y-cheng-16.jpg
+  caption: >
+    Zoo, 2009, acrylic on aluminium, 40 x 40
+    cm
+  inquire: 'false'
+- 
+  image:
+    - y-cheng-17.jpg
+  caption: >
+    Zoo, 2009, acrylic on aluminium, 40 x 40
+    cm
+  inquire: 'false'
+- 
+  image:
+    - y-cheng-18.jpg
+  caption: >
+    Zoo, 2009, acrylic on aluminium, 40 x 40
+    cm
+  inquire: 'false'
+- 
+  image:
+    - y-cheng-19.jpg
+  caption: >
+    Zoo, 2009, acrylic on aluminium, 40 x 40
+    cm
+  inquire: 'false'
+- 
+  image:
+    - y-cheng-20.jpg
+  caption: >
+    Zoo, 2009, acrylic on aluminium, 40 x 40
+    cm
+  inquire: 'false'

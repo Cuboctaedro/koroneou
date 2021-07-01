@@ -1,0 +1,42 @@
+Title: Without my own Vehicle II, 2006-2007
+
+----
+
+Works:
+
+- 
+  image:
+    - wmov-ii-cup-01.jpg
+  caption: 'A cup of unexpectancy, 2007, Mixed media processed photograph,  50 x 70 cm, edition of 5'
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - wmov-ii-dave-02.jpg
+  caption: 'Dove, 2007, Mixed media processed photograph,  50 x 70 cm, edition of 5'
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - wmov-ii-death-of-a-god-03.jpg
+  caption: 'Death of a God, 2007, Mixed media processed photograph,  60 x 90 cm, edition of 5'
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - wmov-ii-everyday-siva.jpg
+  caption: 'Everyday Siva Lingam, 2007, Mixed media processed photograph,  60 x 90 cm, edition of 5'
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - wmov-ii.group-of-forgotten-gods.jpg
+  caption: 'Group of forgotten Gods, 2007, Mixed media processed photograph,  60 x 90 cm, edition of 5'
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - wmov-ii.varanasi-kids.jpg
+  caption: "Kids with MacDonald's clown masks, Varanasi, 2007, Mixed media processed photograph,  50 x 70 cm, edition of 5"
+  inquire: 'false'
+  worktitle: ""

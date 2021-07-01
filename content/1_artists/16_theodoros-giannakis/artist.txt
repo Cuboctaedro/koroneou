@@ -1,0 +1,166 @@
+Title: Theodoros Giannakis
+
+----
+
+Type: represented
+
+----
+
+Coverimage: 
+
+----
+
+Biography:
+
+Born 1979 in Preveza, Greece  
+Lives and works in Athens. He is a member of the KERNEL artistic group.
+
+### Education 
+2017-Present PhD candidate in the Visual Arts Department of the ASFA
+2011 MA in Digital Media Management, London Metropolitan
+2009 Athens School of Fine Arts
+
+### Selected exhibitions
+#### 2018
+"Unpacking my Library", EMST, Museum of Contemporary Art Athens, Athens 
+"Primitivism Mirage", Eleni Koroneou Gallery, Athens
+“2018 Triennial: Songs for Sabotage” – New Museum, New York
+#### 2017 
+“Driftwood, or how we surfaced through currents” – Fondazione Prada, Athens
+“Roy Da Prince” – Centre For Contemporary Art Futura, Prague
+#### 2016 
+“The Equilibrists” – Benaki Museum, Athens 
+“Handsome, Young and Unemployed” – KOMPLOT, Brussels
+#### 2015 
+“Edges and borders” - Delphi Archaeological Museum, Delphi
+“Bridge” - Union Pacific, London
+“Heirs of the Greek Catastrophe” - Parallel Vienna, Vienna
+#### 2013
+“Afresh: A New Generation of Greek Artists”, EMST, National Museum of Contemporary Art, Athens
+#### 2012
+“Young London” - V22 Collection, London
+
+
+### Selected Publications 
+(Lectures – Presentations)
+
+#### 2015 
+Artists, what is your collective value? - ICA, London
+#### 2013 
+The Digital, physical and technical objects - National Documentation Centre, Athens
+#### 2013 
+Reciting, How to Sleep Faster - Arcadia Missa, London
+#### 2012 
+A Reflection - 1st Design biennial Istanbul | Istanbul
+
+----
+
+Works:
+
+- 
+  image:
+    - 0008.jpg
+  caption: >
+    "The Boy Strangling the Goose", 2017,
+    Acrylic on plywood, aluminium, 170 x 120
+    cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - 0009.jpg
+  caption: >
+    Boëthus, 2018, Acrylic on plywood,
+    aluminium mechanical parts, 170 x 120 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - 0010.jpg
+  caption: >
+    "Venus Reclining", 2017, Acrylic on
+    plywood, aluminium, 170 x 120 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - 0010a.jpg
+  caption: >
+    "Ice unknown", 2018, Acrylic on plywood,
+    aluminium mechanical parts, 170 x 120 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - 0010b.jpg
+  caption: >
+    "Rite of Passage", 2018, Aluminium,
+    metalworking vise, 90 x 36 x 5 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - 0010c.jpg
+  caption: >
+    Memory Palace, 2017, Real time Video,
+    Duration infinite loop, Ed. 1 +AP
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - 0011.jpg
+  caption: >
+    Midnight Blue, 2017, Acrylics on
+    plywood, Heritage cocktail
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - 0012.jpg
+  caption: 'Nightly build  α, 2015, Lightweight concrete, cast aluminium'
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - 0013.jpg
+  caption: >
+    Daemon I Nightly build, 2015,
+    Lightweight concrete, cast aluminium,
+    acrylic spray paint
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - 0014.jpg
+  caption: >
+    Nightly build γ, 2015, Lightweight
+    concrete, cast aluminium
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - 0015.jpg
+  caption: >
+    Cloud to Ground, Crystal Natural and
+    Technical, 2013, Quartz crystal, cast
+    aluminium, lead and silver, black satin
+    ceramic 3d printed
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - 0016.jpg
+  caption: >
+    Thunderflow Heritage, 2013, Digital
+    Video. Real time Data. Game Engine.
+    Still Image.
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - xxxmolly_sc_pm-web.jpg
+  caption: >
+    XXX MOLY, 2017, Shield Screen and
+    microcontroller
+  inquire: 'false'
+  worktitle: ""

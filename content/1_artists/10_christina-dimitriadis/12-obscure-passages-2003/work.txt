@@ -1,0 +1,20 @@
+Title: Obscure Passages
+
+----
+
+Works:
+
+- 
+  image:
+    - op-01003-02.jpg
+  caption: >
+    Obscure Passages, 2003, Lambda print,
+    120 x 120 cm, edition 3 + 1AP
+  inquire: 'false'
+- 
+  image:
+    - op-0903-01.jpg
+  caption: >
+    Obscure Passages, 2003, Lambda print,
+    120 x 120 cm, edition 3 + 1AP
+  inquire: 'false'

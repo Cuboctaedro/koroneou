@@ -1,0 +1,63 @@
+Title: Horizon
+
+----
+
+Works:
+
+- 
+  image:
+    - horizon-01.jpg
+  caption: ""
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - horizon-02.jpg
+  caption: 'Horizon #6, 2011, Found oil paintings on canvas of amateur painters, 3 canvases 122,5 x 43 cm (total dimension)'
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - horizon-03.jpg
+  caption: 'Horizon #3, 2010, ound oil paintings on cardboard of amateur or unknown painters, 3 canvases 100 x 45cm (total dimension)'
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - horizon-04.jpg
+  caption: 'Horizon #4, 2011, Found oil paintings on canvas of amateur painters, 4 canvases 307 x 71 cm (total dimension)'
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - horizon-05.jpg
+  caption: 'Horizon #5, 2011, Found oil paintings on canvas of amateur painters, 3 canvases, 278 x 64,5 cm (total dimension)'
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - horizon-06.jpg
+  caption: 'Horizon #6, 2011, Found oil paintings on canvas of amateur painters, 3 canvases 122,5 x 43cm (total dimension)'
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - horizon-07.jpg
+  caption: 'Horizon #9, 2011, Found oil paintings on canvas of amateur painters, 3 canvases 106 x 30 cm (total dimension)'
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - horizon-08.jpg
+  caption: 'Horizon #8, 2011, ound oil paintings on canvas of amateur painters, 3 canvases 136.5 x 41 cm (total dimension)'
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - horizon-09.jpg
+  caption: >
+    Installation view at “Deste Prize”,
+    Museum of Cycladic Art/ Deste
+    Foundation, Athens
+  inquire: 'false'
+  worktitle: ""

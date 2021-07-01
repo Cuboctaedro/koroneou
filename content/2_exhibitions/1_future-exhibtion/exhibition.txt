@@ -1,0 +1,63 @@
+Title: Future Exhibtion
+
+----
+
+Coverimage:
+
+- ta_001.jpg
+
+----
+
+Startdate: 2021-07-02
+
+----
+
+Enddate: 2021-10-01
+
+----
+
+Artists:
+
+- artists/john-bock
+- artists/yuzheng-cheng
+- artists/george-condo
+
+----
+
+Otherartists: 
+
+----
+
+Views: 
+
+----
+
+Artworks: 
+
+----
+
+Pressrelease: 
+
+----
+
+Videoembed: 
+
+----
+
+Galleryartists:
+
+- artists/john-bock
+- artists/george-condo
+- artists/gerasimos-floratos
+
+----
+
+Viewsgallery: 
+
+----
+
+Worksgallery: 
+
+----
+
+Contentblocks: 

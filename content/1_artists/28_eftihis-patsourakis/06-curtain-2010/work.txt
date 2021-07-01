@@ -1,0 +1,70 @@
+Title: Curtain
+
+----
+
+Works:
+
+- 
+  image:
+    - curtain-01.jpg
+  caption: >
+    Installation view at Migros Museum,
+    Zurich, 2010
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - curtain-02.jpg
+  caption: >
+    Curtain, 2009, Spray on used photo album
+    paper, 21 x 29 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - curtain-03.jpg
+  caption: >
+    Curtain, 2009, Spray on used photo album
+    paper, 21 x 29 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - curtain-04.jpg
+  caption: >
+    Curtain, 2009, Spray on used photo album
+    paper, 21 x 29 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - curtain-05.jpg
+  caption: >
+    Curtain, 2009, Spray on used photo album
+    paper, 21 x 29 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - curtain-06.jpg
+  caption: >
+    Curtain, 2009, Spray on used photo album
+    paper, 21 x 29 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - curtain-07.jpg
+  caption: >
+    Curtain, 2009, Spray on used photo album
+    paper, 21 x 29 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - curtain-08.jpg
+  caption: >
+    Curtain, 2009, Spray on used photo album
+    paper, 21 x 29 cm
+  inquire: 'false'
+  worktitle: ""

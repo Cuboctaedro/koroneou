@@ -1,0 +1,42 @@
+Title: Fest
+
+----
+
+Works:
+
+- 
+  image:
+    - fest-01.jpg
+  caption: >
+    Fest, Installation view at ReMap 1,
+    2007, Commemoration-paper collage,
+    dimensions variable
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - fest-02.jpg
+  caption: >
+    Fest, Installation view at ReMap 1,
+    2007, Commemoration-paper collage,
+    dimensions variable
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - fest-03.jpg
+  caption: >
+    Fest, Installation view at ReMap 1,
+    2007, Commemoration-paper collage,
+    dimensions variable
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - fest-04.jpg
+  caption: >
+    Fest, Installation view at ReMap 1,
+    2007, Commemoration-paper collage,
+    dimensions variable
+  inquire: 'false'
+  worktitle: ""

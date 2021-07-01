@@ -1,0 +1,132 @@
+Title: End And
+
+----
+
+Works:
+
+- 
+  image:
+    - end-and-01.jpg
+  caption: >
+    End And, 2012, Inkjet print, 40 x 60 cm,
+    edition of 5 + 1AP
+  inquire: 'false'
+- 
+  image:
+    - end-and-02.jpg
+  caption: >
+    End And, 2012, Inkjet print, 40 x 60 cm,
+    edition of 5 + 1AP
+  inquire: 'false'
+- 
+  image:
+    - end-and-03.jpg
+  caption: >
+    End And, 2012, Inkjet print, 40 x 60 cm,
+    edition of 5 + 1AP
+  inquire: 'false'
+- 
+  image:
+    - end-and-04.jpg
+  caption: >
+    End And, 2012, Inkjet print, 40 x 60 cm,
+    edition of 5 + 1AP
+  inquire: 'false'
+- 
+  image:
+    - end-and-05.jpg
+  caption: >
+    End And, 2012, Inkjet print, 40 x 60 cm,
+    edition of 5 + 1AP
+  inquire: 'false'
+- 
+  image:
+    - end-and-06.jpg
+  caption: >
+    End And, 2012, Inkjet print, 40 x 60 cm,
+    edition of 5 + 1AP
+  inquire: 'false'
+- 
+  image:
+    - end-and-07.jpg
+  caption: >
+    End And, 2012, Inkjet print, 40 x 60 cm,
+    edition of 5 + 1AP
+  inquire: 'false'
+- 
+  image:
+    - end-and-08.jpg
+  caption: >
+    End And, 2012, Inkjet print, 40 x 60 cm,
+    edition of 5 + 1AP
+  inquire: 'false'
+- 
+  image:
+    - end-and-09.jpg
+  caption: >
+    End And, 2012, Inkjet print, 40 x 60 cm,
+    edition of 5 + 1AP
+  inquire: 'false'
+- 
+  image:
+    - end-and-10.jpg
+  caption: >
+    End And, 2012, Inkjet print, 40 x 60 cm,
+    edition of 5 + 1AP
+  inquire: 'false'
+- 
+  image:
+    - end-and-11.jpg
+  caption: >
+    End And, 2012, Inkjet print, 40 x 60 cm,
+    edition of 5 + 1AP
+  inquire: 'false'
+- 
+  image:
+    - end-and-12.jpg
+  caption: >
+    End And, 2012, Inkjet print, 40 x 60 cm,
+    edition of 5 + 1AP
+  inquire: 'false'
+- 
+  image:
+    - end-and-13.jpg
+  caption: >
+    End And, 2012, Inkjet print, 40 x 60 cm,
+    edition of 5 + 1AP
+  inquire: 'false'
+- 
+  image:
+    - end-and-14.jpg
+  caption: >
+    End And, 2012, Inkjet print, 40 x 60 cm,
+    edition of 5 + 1AP
+  inquire: 'false'
+- 
+  image:
+    - end-and-15.jpg
+  caption: >
+    End And, 2012, Inkjet print, 40 x 60 cm,
+    edition of 5 + 1AP
+  inquire: 'false'
+- 
+  image:
+    - end-and-16.jpg
+  caption: >
+    End And, 2012, Inkjet print, 40 x 60 cm,
+    edition of 5 + 1AP
+  inquire: 'false'
+- 
+  image:
+    - end-and-17.jpg
+  caption: >
+    End And, 2012, Inkjet print, 40 x 60 cm,
+    edition of 5 + 1AP
+  inquire: 'false'
+- 
+  image:
+    - end-and-18.jpg
+  caption: >
+    End And, 2012, Inkjet print, 40 x 60 cm,
+    edition of 5 + 1AP
+  inquire: 'false'

@@ -1,0 +1,90 @@
+title: Exhibition
+
+tabs:
+    data:
+        label: Exhibition Data
+        icon: calendar
+        fields:
+            coverimage:
+                type: files
+                label: Cover Image
+                multiple: false
+            startdate:
+                label: Start Date
+                type: date
+                width: 1/2
+            enddate:
+                label: End Date
+                type: date
+                width: 1/2
+            artists:
+                label: Gallery Artists
+                type: pages
+                query: site.find('artists').children
+                subpages: false
+                text: "{{ page.title }}"
+                width: 1/2
+            otherartists:
+                label: Other Artists
+                type: structure
+                width: 1/2
+                fields:
+                    name:
+                        type: text
+                        label: Name
+    views:
+        label: Views
+        icon: box
+        fields:
+            views:
+                label: Exhibition Views
+                type: structure
+                fields:
+                    image:
+                        label: Image
+                        type: files
+                        multiple: false
+                        layout: cards
+                        width: 1/4
+                    caption:
+                        label: Caption
+                        type: textarea
+                        size: small
+                        width: 1/2
+                        buttons:
+                        - italic
+                        - bold
+                        - link
+    works:
+        label: Artworks
+        icon: image
+        fields:
+            artworks: fields/artworks
+    text:
+        label: Press
+        icon: document
+        fields:
+            pressrelease:
+                extends: fields/textarea
+                label: Press Release
+    video:
+        label: Video
+        icon: video
+        fields:
+            videoembed:
+                type: textarea
+                label: Video Embed Code
+                buttons: false
+                font: monospace
+    pagefiles:
+        label: Page Files
+        icon: folder
+        sections:
+            pagefiles:
+                type: files
+                headline: Page Files
+                layout: list
+
+
+
+

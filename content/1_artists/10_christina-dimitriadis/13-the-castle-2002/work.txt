@@ -1,0 +1,27 @@
+Title: The Castle
+
+----
+
+Works:
+
+- 
+  image:
+    - the-castle1.jpg
+  caption: >
+    The Castle, 2002, Lambda print, 120 x
+    120 cm, edition 3 + 1AP
+  inquire: 'false'
+- 
+  image:
+    - the-castle2.jpg
+  caption: >
+    The Castle, 2002, Lambda print, 120 x
+    120 cm, edition 3 + 1AP
+  inquire: 'false'
+- 
+  image:
+    - the-castle3.jpg
+  caption: >
+    The Castle, 2002, Lambda print, 120 x
+    120 cm, edition 3 + 1AP
+  inquire: 'false'

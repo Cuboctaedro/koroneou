@@ -1,0 +1,80 @@
+Title: Without my own Vehicle I, 2006
+
+----
+
+Works:
+
+- 
+  image:
+    - image_01.jpg
+  caption: >
+    Morning Ritual, 2006, Digital print on
+    photo rag paper, 50 x 70 cm, edition of
+    5
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - image_02.jpg
+  caption: >
+    Hanuman, 2006, Digital print on photo
+    rag paper, 35 x 50 cm, edition of 5
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - image_03.jpg
+  caption: 'Little foot holding  the door to the Armenian church open, 2006, Digital print on photo rag paper, 35 x 50 cm, edition of 5'
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - image_04.jpg
+  caption: >
+    Mullah in the park, 2006, Digital print
+    on photo rag paper, 60 x 90 cm, edition
+    of 5
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - image_05.jpg
+  caption: >
+    Persepolis, 2006, Digital print on
+    photorag paper, 60 x 90 cm, edition of 5
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - image_06.jpg
+  caption: >
+    The legs of Mohammad Reza Shah, 2006,
+    Digital print on photorag paper, 30 x 43
+    cm, edition of 5
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - image_07.jpg
+  caption: >
+    In the Bus to Yazd, 2006, Digital print
+    on photorag paper, 50 x 70 cm, edition
+    of 5
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - image_08.jpg
+  caption: >
+    Bed cover, 2006, Digital print on photo
+    rag paper, 50 x 70 cm, edition of 5
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - image_09.jpg
+  caption: >
+    Purple car, 2006, Digital print on photo
+    rag paper, 30 x 43 cm, edition of 5
+  inquire: 'false'
+  worktitle: ""

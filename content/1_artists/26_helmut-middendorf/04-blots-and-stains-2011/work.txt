@@ -1,0 +1,184 @@
+Title: Blots and Stains, 2011
+
+----
+
+Works:
+
+- 
+  image:
+    - blots-and-stains-001.jpg
+  caption: >
+    The Seasons (Time-tower) – White/Grey,
+    2011, Acrylic on canvas, 200 x 130 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - blots-and-stains-002.jpg
+  caption: >
+    The Seasons (Time-tower) – Blue, 2011,
+    Acrylic on canvas, 200 x 130 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - blots-and-stains-003.jpg
+  caption: >
+    The Seasons (Time-tower) – Orange,
+    2011, Acrylic on canvas, 200 x 130 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - blots-and-stains-004.jpg
+  caption: >
+    The Seasons (Time-tower) – Pink, 2011,
+    Acrylic on canvas, 200 x 130 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - blots-and-stains-005.jpg
+  caption: >
+    Screen (Grid), 2010, Acrylic on canvas,
+    200 x 160 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - blots-and-stains-006.jpg
+  caption: >
+    Untitled (Athens seen from the Moon),
+    2010, Acrylic on canvas, 200 x 160 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - blots-and-stains-01.jpg
+  caption: >
+    Untitled (Carnival), 2011, Collage and
+    acrylic, 38 x 29.5 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - blots-and-stains-02.jpg
+  caption: >
+    Warhol and Mother, 2011, Collage and
+    acrylic, 38 x 29.5 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - blots-and-stains-03.jpg
+  caption: >
+    Birdie, 2011, Collage and acrylic, 38 x
+    30 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - blots-and-stains-04.jpg
+  caption: >
+    Untitled (Africa), 2010, Collage and
+    acrylic, 38 x 29.5 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - blots-and-stains-05.jpg
+  caption: >
+    Bacon, 2011, Collage and acrylic, 38 x
+    30 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - blots-and-stains-06.jpg
+  caption: >
+    Ali, 2011, Collage and acrylic, 39 x
+    29,5 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - blots-and-stains-07.jpg
+  caption: Greek Rodeo, 2010, Collage, 49 x 71 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - blots-and-stains-09.jpg
+  caption: >
+    Before you ask, 2010, Collage, 45 x 28
+    cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - blots-and-stains-10.jpg
+  caption: >
+    Untitled, (Stairs – Westwood), 2010,
+    Collage, 56.5 x 39 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - blots-and-stains-11.jpg
+  caption: Tank, 2005/2009, Collage, 39,5 x 28,5 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - blots-and-stains-13.jpg
+  caption: B.K., 2010, Collage, 30 x 54 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - blots-and-stains-14.jpg
+  caption: >
+    Untitled (Kirk Douglas – Van Gogh),
+    2010, Collage, 52 x 36,2 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - blots-and-stains-15.jpg
+  caption: >
+    Ewiges Brodeln (Eternal Simmering),
+    2010, Collage, 30 x 25,2 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - blots-and-stains-16.jpg
+  caption: >
+    Untitled (Gustav), 2011, Collage, 42 x
+    31,5 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - blots-and-stains-17.jpg
+  caption: >
+    Untitled (Romy), 2010, Collage, 57 x
+    39,5 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - blots-and-stains-18.jpg
+  caption: >
+    Untitled (M+E), 2010, Collage on
+    cardboard, 52 x 61 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - blots-and-stains-19.jpg
+  caption: >
+    Untitled (ΠΡΟΣΟΧΗ), 2010,
+    Collage, 52 x 61 cm
+  inquire: 'false'
+  worktitle: ""

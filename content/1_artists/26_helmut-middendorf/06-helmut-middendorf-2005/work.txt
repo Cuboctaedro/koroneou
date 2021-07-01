@@ -1,0 +1,100 @@
+Title: Helmut Middendorf, 2005
+
+----
+
+Works:
+
+- 
+  image:
+    - hm-2005-01.jpg
+  caption: >
+    Every day they take some brain away,
+    2003, Acrylic on canvas, 200 x 130 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - hm-2005-02.jpg
+  caption: >
+    PL (Rot), 2003, Acrylic on canvas, 200 x
+    180 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - hm-2005-03.jpg
+  caption: >
+    PL (Blotches), 2005, Acrylic on canvas,
+    200 x 130 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - hm-2005-04.jpg
+  caption: >
+    PL (O.R.), 2004, rylic on canvas, 200 x
+    180 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - hm-2005-05.jpg
+  caption: >
+    PL (O), 2004, crylic on canvas, 200 x
+    130 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - hm-2005-06.jpg
+  caption: >
+    And you, 2002, crylic on canvas, 120 x
+    100 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - hm-2005-07.jpg
+  caption: >
+    Gramercy Park Hotel 9/11, 2005, Acrylic
+    on canvas, 120 x 100 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - hm-2005-08.jpg
+  caption: 'Satyr- Greek, 2004, crylic on canvas, 120 x 100 cm'
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - hm-2005-09.jpg
+  caption: >
+    O.T., 2004, Acrylic on canvas, 120 x 100
+    cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - hm-2005-10.jpg
+  caption: >
+    Girl, 2004, Acrylic on canvas, 120 x 100
+    cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - hm-2005-11.jpg
+  caption: >
+    Hole N.Y., 2004, Acrylic on canvas, 120
+    x 100 cm
+  inquire: 'false'
+  worktitle: ""
+- 
+  image:
+    - hm-2005-12.jpg
+  caption: >
+    O.T., 2003, crylic on canvas, 120 x 100
+    cm
+  inquire: 'false'
+  worktitle: ""
