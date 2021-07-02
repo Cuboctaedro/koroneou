@@ -40,6 +40,14 @@ class ExhibitionPage extends AbcPage {
         return $this->startdate()->toDate('%G');
     }
 
+    public function getFormatedDates() {
+        if ($this->startdate()->toDate('%G') === $this->enddate()->toDate('%G')) {
+            return $this->startdate()->toDate('%B %e') . ' - ' . $this->getEndDate();
+        } else {
+            return $this->getStartDate() . ' - ' . $this->getEndDate();
+        }
+    }
+
     /**
      * Get pages collection of gallery artits.
      *

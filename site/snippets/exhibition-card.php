@@ -32,6 +32,6 @@
             <h3 class="font-regular <?php if ($size === 'lg') : ?> text-lg <?php endif; ?>"><?= $exhibition->title(); ?></h3>
             <h4 class="font-light text-sm"><?= $exhibition->printArtists(); ?></h4>
         <?php endif; ?>
-        <div class="font-light text-sm"><?= $exhibition->getStartDate(); ?> - <?= $exhibition->getEndDate(); ?></div>    
+        <div class="font-light text-sm"><?= $exhibition->getFormatedDates(); ?></div>    
     
 </article>

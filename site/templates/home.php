@@ -40,7 +40,7 @@
                 <?php endif; ?>
             </div>
             <div class="w-full lg:w-1/3 lg:text-right px-6 pb-12">
-                <span class="font-light text-sm"><?= $currentExhibition->getStartDate(); ?> - <?= $currentExhibition->getEndDate(); ?></span>
+                <span class="font-light text-sm"><?= $currentExhibition->getFormatedDates(); ?></span>
             </div>
 
         </section>
