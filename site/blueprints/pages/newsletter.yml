@@ -1,0 +1,6 @@
+title: Newsletter
+
+fields:
+    success_message:
+        extends: fields/textarea
+        label: Success message

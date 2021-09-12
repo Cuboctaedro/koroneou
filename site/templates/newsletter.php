@@ -49,7 +49,7 @@
                     </div>
   
                     <div class="flex flex-row flex-wrap items-center pb-8">
-                        <label class="w-full lg:w-1/4 section-header-label px-6 pb-1 lg:pb-0 lg:text-right" for="phone">Address</label>
+                        <label class="w-full lg:w-1/4 section-header-label px-6 pb-1 lg:pb-0 lg:text-right" for="address">Address</label>
                         <div class="w-full lg:w-3/4 px-6">
                             <input class="w-full h-8 border-gray-200 border-solid border px-1 py-0 rounded-none" name="address" type="text" id="address" value="<?= $form->old('address'); ?>">
                             <?php if ($form->error('address')) : ?>

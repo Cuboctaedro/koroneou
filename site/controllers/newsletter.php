@@ -13,9 +13,9 @@ return function ($kirby)
             'rules' => ['required', 'email'],
             'message' => 'Please enter a valid email address',
         ],
-        'phone',
-        'address',
-        'message',
+        'phone' => [],
+        'address' => [],
+        'message' => [],
     ]);
 
     if ($kirby->request()->is('POST')) {
@@ -23,6 +23,8 @@ return function ($kirby)
         ->emailAction([
             'to'   => 'info@koroneougallery.com',
             'from' => 'info@koroneougallery.com',
+            'subject' => 'Newsletter Subscription',
+            'template' => 'newsletter',
         ]);
     }
 
